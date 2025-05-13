@@ -1,0 +1,11 @@
+2025-05-13 12:25:20,739 - Use pytorch device_name: cpu
+2025-05-13 12:25:20,739 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-13 12:34:17,792 - Chunk Stored: fc926e15-208c-449f-9fc2-940867ee0206 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 12:34:17,792 - Chunk Stored: eeeceb47-3a6c-4cb0-9cb7-e9d63d50cb90 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 12:34:17,792 - Chunk Stored: b7ea5a6d-e93e-4f67-93af-e82e6f57dabc | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 12:34:17,792 - Chunk Stored: 81be93c5-1111-445f-9223-061f28d10591 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 12:34:17,792 - Chunk Stored: a9bc81b3-ad51-4128-8617-c5d7c3a83598 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 12:34:17,793 - Chunk Stored: 01e07e97-604f-49f4-8031-c070a5ab0691 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 12:34:17,793 - Chunk Stored: e2631bc3-f0c7-454d-bffb-ce07d3404cd0 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 12:34:17,793 - Chunk Stored: b4e4fef8-5744-455d-b479-37a01cf3a777 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 12:34:17,793 - Chunk Stored: 0ee003f6-070a-4912-be16-6201e7ca0e4c | File: temp_VIVI_CV.pdf | Page: 3

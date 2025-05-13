@@ -1,0 +1,8 @@
+# Run It
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+# test it
+curl -X POST "http://127.0.0.1:8000/parse-pdf" -F "file=@VIVI_CV.pdf"
+
+

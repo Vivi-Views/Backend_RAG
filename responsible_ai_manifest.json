@@ -1,5 +1,5 @@
 {
   "policy": "No document or chunk processed by this pipeline will be used for LLM or embedding training unless explicitly approved by client X.",
-  "timestamp": "2025-05-13T12:25:20.721266",
+  "timestamp": "2025-05-14T14:12:11.167427",
   "enforced": true
 }

@@ -143,5 +143,5 @@ def upload_multiple_pdfs(files: List[UploadFile] = File(...), credentials: HTTPB
     return JSONResponse(content={
         "status": "success",
         "total_chunks_indexed": total_chunks,
-        "first_3_chunks": ([f"***{chunk}***" for chunk in all_top_chunks[:3]])
+        "first_3_chunks": all_top_chunks[:3]
     }, status_code=200)

@@ -121,27 +121,18 @@ def upload_multiple_pdfs(files: List[UploadFile] = File(...), credentials: HTTPB
     user_role = credentials.username.lower()
     if not check_permission(user_role, "parse"):
         raise HTTPException(status_code=403, detail="Access Denied.")
-    
-    total_chunks = 0
-    all_top_chunks = []
 
+    total_chunks = 0
     for file in files:
         temp_file_path = f"temp_{file.filename}"
         with open(temp_file_path, "wb") as buffer:
             shutil.copyfileobj(file.file, buffer)
 
         try:
-            top_chunks = parse_pdf(temp_file_path)
-            total_chunks += len(temp_file_path)
-            all_top_chunks.extend(top_chunks)
+            metadata_results = parse_pdf(temp_file_path)
+            total_chunks += len(metadata_results)
             os.remove(temp_file_path)
-            
         except Exception as e:
             logging.error(f"Parsing Error in {file.filename}: {str(e)}")
 
-    # Limit to first 3 across all files
-    return JSONResponse(content={
-        "status": "success",
-        "total_chunks_indexed": total_chunks,
-        "first_3_chunks": ([f"***{chunk}***" for chunk in all_top_chunks[:3]])
-    }, status_code=200)
+    return JSONResponse(content={"status": "success", "total_chunks_indexed": total_chunks}, status_code=200)

@@ -9,3 +9,100 @@
 2025-05-13 12:34:17,793 - Chunk Stored: e2631bc3-f0c7-454d-bffb-ce07d3404cd0 | File: temp_VIVI_CV.pdf | Page: 2
 2025-05-13 12:34:17,793 - Chunk Stored: b4e4fef8-5744-455d-b479-37a01cf3a777 | File: temp_VIVI_CV.pdf | Page: 2
 2025-05-13 12:34:17,793 - Chunk Stored: 0ee003f6-070a-4912-be16-6201e7ca0e4c | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-13 13:27:02,613 - Chunk Stored: 0fb9a450-316d-4450-ba41-88e7c3c154eb | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:27:02,618 - Chunk Stored: 1a4cc100-624b-4598-8ac3-88b6d8cccac1 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:27:02,618 - Chunk Stored: d3df3f12-76fc-40aa-9b27-884f1e4b75f8 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:27:02,618 - Chunk Stored: 157dd426-420d-423d-8268-490e63541c19 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:27:02,618 - Chunk Stored: eea0b358-3144-4643-ac37-1d5c03d20582 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:27:02,618 - Chunk Stored: c3b736e8-0ba8-4d4e-b6ca-ecd7e2fbb754 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:27:02,618 - Chunk Stored: 4b77b41a-b7b8-4c89-b37d-b9a86500823c | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:27:02,618 - Chunk Stored: e37a3571-ffa8-4293-a85a-cc3f071ba4a4 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:27:02,618 - Chunk Stored: 55abfac0-7a9f-4c17-9669-0b9c2efe7850 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-13 13:28:03,465 - Chunk Stored: 2d875bed-8925-4916-a139-b856bf49ef4a | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:28:03,465 - Chunk Stored: 0d438b0e-b197-479a-aa24-8d050c232f72 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:28:03,465 - Chunk Stored: f387c64d-c692-4af1-8db9-d9de937c1ca5 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:28:03,465 - Chunk Stored: 0871cef0-3c21-4604-831d-858cb6822978 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 13:28:03,465 - Chunk Stored: 930d17dc-e391-4599-af7f-3d34799c433f | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:28:03,466 - Chunk Stored: 1afcf584-6aa5-46e5-9958-c3e6bad9ca6d | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:28:03,466 - Chunk Stored: bf3ddd58-2e28-4c4f-9041-6fc9b3f990db | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:28:03,466 - Chunk Stored: f9b13af5-50bc-4313-ae2c-424ac5910660 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 13:28:03,466 - Chunk Stored: bf25c8c9-bad7-4dcc-aad5-3c63f366e3b1 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-13 15:41:19,099 - Chunk Stored: 269cd05a-aa6b-4690-88d0-4395aa622674 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 15:41:19,102 - Chunk Stored: f5a9f1f1-c539-418d-a966-a3f26eab87bb | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 15:41:19,102 - Chunk Stored: 1879e0eb-9f2e-44fc-aa1e-db737c47df28 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 15:41:19,103 - Chunk Stored: 1e47f392-b175-459c-b782-36641fc77723 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-13 15:41:19,103 - Chunk Stored: 54a16c65-48cf-4f75-8a2f-6e4be90a9be9 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 15:41:19,103 - Chunk Stored: 7a2c2b07-0499-4115-8953-7a6dbcbb0919 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 15:41:19,103 - Chunk Stored: 854c0705-a870-4b06-a015-5745030b2440 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 15:41:19,103 - Chunk Stored: 7892d51f-86d7-4a9f-9cec-9d52a01e3f66 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-13 15:41:19,103 - Chunk Stored: 7f723f39-de61-469f-8c7a-5a39a6cdb576 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 12:52:12,169 - Use pytorch device_name: cpu
+2025-05-14 12:52:12,170 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 12:52:27,090 - Chunk Stored: 92fac53d-87a9-4622-91eb-e371fd5a1738 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 12:52:27,091 - Chunk Stored: d053dbac-b5a1-415e-90f7-7a0d918fc2f8 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 12:52:27,091 - Chunk Stored: f3452f13-adbc-4b18-b933-bdcf75a0bcb1 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 12:52:27,091 - Chunk Stored: 5d55fbd3-4ddf-4678-84fa-f3052efb8f13 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 12:52:27,091 - Chunk Stored: 98849fdd-a0de-4b67-826c-d508cdb74eb8 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 12:52:27,091 - Chunk Stored: 11ec332c-43c5-49b3-a0ae-9b499b36f5c3 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 12:52:27,091 - Chunk Stored: fe31616a-693b-4e3a-be64-405b50fc788d | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 12:52:27,091 - Chunk Stored: c08b01f8-9a71-45b5-87aa-ecb27998fc88 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 12:52:27,091 - Chunk Stored: 35633edd-2a8d-4934-9f74-c21ec2b9d9db | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 12:58:54,589 - Use pytorch device_name: cpu
+2025-05-14 12:58:54,589 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 12:59:48,838 - Use pytorch device_name: cpu
+2025-05-14 12:59:48,839 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 13:00:33,176 - Chunk Stored: fc2fc9be-268d-4998-a2d9-ea842873133b | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:00:33,176 - Chunk Stored: 0f882b71-d5f2-4b61-a103-b5cc4b0465f5 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:00:33,176 - Chunk Stored: bd27d42b-f49b-4389-a97c-8940ff70cffd | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:00:33,176 - Chunk Stored: a0934002-560e-43ae-9118-6a3743f188a7 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:00:33,176 - Chunk Stored: bc5005c9-758d-49ed-a5d5-5303c4061a56 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:00:33,176 - Chunk Stored: 8c7df728-5a76-4ba2-b801-92b908e59b4b | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:00:33,176 - Chunk Stored: 71804112-06ce-45cd-9815-d145bd7a8638 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:00:33,177 - Chunk Stored: 8e32bbf5-101d-4c5d-9c8c-98c5b152be14 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:00:33,177 - Chunk Stored: 88762ea0-5d14-46ed-972f-4b9079361ae0 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 13:07:15,642 - Use pytorch device_name: cpu
+2025-05-14 13:07:15,643 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 13:07:29,209 - Chunk Stored: d9663ecd-25a6-4d8f-93e3-33d83ffc6cdd | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:07:29,210 - Chunk Stored: e343235c-7634-4a45-b2df-e0d695ef17c1 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:07:29,210 - Chunk Stored: 4d2c0feb-66ed-4e00-a130-bb896706f6af | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:07:29,210 - Chunk Stored: be0a7c3e-020f-405d-bfde-fafd650429d0 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:07:29,210 - Chunk Stored: 57f71cb3-c5b1-4631-99cb-11e24860db95 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:07:29,210 - Chunk Stored: 93ae781f-469a-41a0-8c45-53f87a4daf75 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:07:29,210 - Chunk Stored: ceaedcd3-6c59-49f0-a855-913ceea9565c | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:07:29,210 - Chunk Stored: 1585beb6-97c3-42b9-add4-fc35f3d8334b | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:07:29,210 - Chunk Stored: 89b225bf-bbcc-45ea-a5f2-503f4e898703 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 13:12:30,109 - Use pytorch device_name: cpu
+2025-05-14 13:12:30,109 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 13:12:38,268 - Chunk Stored: 9755dc52-c12e-438f-9f86-95421a46fad1 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:12:38,268 - Chunk Stored: fac6165b-4898-4482-9fc7-a1fcffc70768 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:12:38,268 - Chunk Stored: 1b47c426-46ea-44d6-93b0-439b1a0610df | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:12:38,269 - Chunk Stored: bae3d9d7-89c6-4947-b2a3-0bf2d2662f4f | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 13:12:38,269 - Chunk Stored: ccb9879b-fb7c-4f1a-909b-74ec5a8686a8 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:12:38,269 - Chunk Stored: dafd295c-94e1-454e-9cbc-9528cd40ffd0 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:12:38,269 - Chunk Stored: 10db3149-c5ca-4939-b279-c8cb1898cb3b | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:12:38,269 - Chunk Stored: da8080d9-b8a1-43e6-add0-d1e4c62c2699 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 13:12:38,269 - Chunk Stored: cd27ad33-2e80-4924-bc9d-589968371041 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 14:00:24,026 - Use pytorch device_name: cpu
+2025-05-14 14:00:24,026 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:01:00,706 - Use pytorch device_name: cpu
+2025-05-14 14:01:00,706 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:01:09,921 - Chunk Stored: cda06995-8415-4b55-9bd7-fd96d86ae1b7 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:01:09,922 - Chunk Stored: 9d3ecaa4-0d98-4e3e-9309-c30771a14179 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:01:09,922 - Chunk Stored: 8028dc7f-3075-45cd-97e7-5d5cd818e44a | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:01:09,922 - Chunk Stored: f4041814-428d-426e-9e77-9ae30c1006da | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:01:09,922 - Chunk Stored: d5a636a7-db28-4afb-b4e3-f00d5e57d79f | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:01:09,922 - Chunk Stored: b60472e1-9387-4c33-8674-13f5e77ca11f | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:01:09,922 - Chunk Stored: d9c3690f-f0a3-4e56-8a24-4038946573cb | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:01:09,922 - Chunk Stored: 69a957bc-d41e-4096-ae9f-f3ab33ef11a7 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:01:09,922 - Chunk Stored: 9487f249-6ef3-43f2-9493-b319ede1a6c4 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 14:03:20,898 - Use pytorch device_name: cpu
+2025-05-14 14:03:20,899 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:03:27,466 - Chunk Stored: a2794d29-7bd7-4add-8656-3e9a2ab63dd1 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:03:27,466 - Chunk Stored: fececf4f-2754-4714-bda9-c87ec57e148e | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:03:27,466 - Chunk Stored: e3a1ba4d-1eef-4a58-ace6-82116e022ec9 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:03:27,466 - Chunk Stored: 27c09f8e-a48f-4064-9772-0a85a12b06ae | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:03:27,466 - Chunk Stored: 6d2a467f-3e33-416c-9597-c365118fae70 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:03:27,466 - Chunk Stored: c1abe312-dceb-4e1b-81f4-08f5479bfe88 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:03:27,467 - Chunk Stored: 3bf1ca32-dba7-4081-9004-e0403ac1e94c | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:03:27,467 - Chunk Stored: 185b713e-e5d8-46a8-b023-a6e1df218722 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:03:27,467 - Chunk Stored: 01e996b0-9e4f-422d-b3de-b4b0e24e5cbe | File: temp_VIVI_CV.pdf | Page: 3

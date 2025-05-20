@@ -8,11 +8,12 @@ import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from uuid import uuid4
-from typing import List, Dict
+from typing import List
 from fastapi import FastAPI, File, UploadFile, HTTPException, Depends
 from fastapi.responses import JSONResponse
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
 import shutil
+from fastapi.middleware.cors import CORSMiddleware
 
 # ====== Config & Security Hardening ======
 os.environ["HF_HUB_DISABLE_TELEMETRY"] = "1"
@@ -31,15 +32,12 @@ with open("responsible_ai_manifest.json", "w") as f:
 logging.basicConfig(filename='parse_log.txt', level=logging.INFO, format='%(asctime)s - %(message)s')
 
 # ====== Embedding Model (local) ======
-model = SentenceTransformer('all-MiniLM-L6-v2')  # Local model
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # ====== Vector DB Setup (FAISS) ======
 embedding_dim = 384  # For all-MiniLM
 index = faiss.IndexFlatL2(embedding_dim)
 chunk_metadata_store = []
-
-# Ensure index save directory exists
-os.makedirs("faiss_index_store", exist_ok=True)
 
 # ====== Utility Functions ======
 def clean_text(text):
@@ -52,7 +50,7 @@ def chunk_text(text, max_words=100):
 def encrypt_text(text):
     return hashlib.sha256(text.encode()).hexdigest()
 
-# ====== RBAC Layer (Simplified) ======
+# ====== RBAC Layer ======
 RBAC_USERS = {
     "admin": ["parse", "index", "query"],
     "viewer": ["query"]
@@ -87,43 +85,47 @@ def parse_pdf(file_path):
                 encrypted_chunk = encrypt_text(chunk)
                 chunks.append((chunk_id, chunk, page_num, encrypted_chunk))
 
-    chunk_texts = [c[1] for c in chunks]
-    embeddings = model.encode(chunk_texts)
-    index.add(np.array(embeddings).astype('float32'))
+    if chunks:
+        chunk_texts = [c[1] for c in chunks]
+        embeddings = model.encode(chunk_texts)
+        index.add(np.array(embeddings).astype('float32'))
 
-    for i, (chunk_id, chunk, page_num, encrypted) in enumerate(chunks):
-        metadata_record = {
-            "id": chunk_id,
-            "file_name": metadata['file_name'],
-            "page": page_num,
-            "chunk": chunk,
-            "trainable": False,
-            "timestamp": datetime.datetime.now().isoformat(),
-            "encrypted_hash": encrypted
-        }
-        chunk_metadata_store.append(metadata_record)
-        logging.info(f"Chunk Stored: {chunk_id} | File: {metadata['file_name']} | Page: {page_num}")
+        for i, (chunk_id, chunk, page_num, encrypted) in enumerate(chunks):
+            metadata_record = {
+                "id": chunk_id,
+                "file_name": metadata['file_name'],
+                "page": page_num,
+                "chunk": chunk,
+                "trainable": False,
+                "timestamp": datetime.datetime.now().isoformat(),
+                "encrypted_hash": encrypted
+            }
+            chunk_metadata_store.append(metadata_record)
+            logging.info(f"Chunk Stored: {chunk_id} | File: {metadata['file_name']} | Page: {page_num}")
 
-    # Save FAISS index to disk
-    faiss.write_index(index, "faiss_index_store/my_index.faiss")
+    return [meta["chunk"] for meta in chunk_metadata_store[-len(chunks):]]
 
-    # Return first 3 chunk texts for validation
-    first_3_chunks = [meta["chunk"] for meta in chunk_metadata_store[:3]]
-    return first_3_chunks
-
-# ====== FastAPI App ======
+# ====== FastAPI Setup ======
 app = FastAPI()
 security = HTTPBasic()
 
-# ====== Endpoint for Multiple PDF Upload and Parsing ======
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 @app.post("/parse-multiple-pdfs")
 def upload_multiple_pdfs(files: List[UploadFile] = File(...), credentials: HTTPBasicCredentials = Depends(security)):
     user_role = credentials.username.lower()
     if not check_permission(user_role, "parse"):
         raise HTTPException(status_code=403, detail="Access Denied.")
-    
+
     total_chunks = 0
     all_top_chunks = []
+    errors = []
 
     for file in files:
         temp_file_path = f"temp_{file.filename}"
@@ -132,16 +134,21 @@ def upload_multiple_pdfs(files: List[UploadFile] = File(...), credentials: HTTPB
 
         try:
             top_chunks = parse_pdf(temp_file_path)
-            total_chunks += len(temp_file_path)
-            all_top_chunks.extend(top_chunks)
+            total_chunks += len(top_chunks)
+            all_top_chunks.extend(top_chunks[:3])
             os.remove(temp_file_path)
-            
         except Exception as e:
+            errors.append({file.filename: str(e)})
             logging.error(f"Parsing Error in {file.filename}: {str(e)}")
 
-    # Limit to first 3 across all files
-    return JSONResponse(content={
-        "status": "success",
-        "total_chunks_indexed": total_chunks,
-        "first_3_chunks": ([f"***{chunk}***" for chunk in all_top_chunks[:3]])
-    }, status_code=200)
+    faiss.write_index(index, "faiss_index_store/my_index.faiss")
+
+    return JSONResponse(
+        content={
+            "status": "success" if not errors else "partial_success",
+            "total_chunks_indexed": total_chunks,
+            "first_3_chunks": [f"***{chunk}***" for chunk in all_top_chunks[:3]],
+            "errors": errors
+        },
+        status_code=200 if not errors else 207
+    )

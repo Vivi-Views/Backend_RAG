@@ -106,3 +106,712 @@
 2025-05-14 14:03:27,467 - Chunk Stored: 3bf1ca32-dba7-4081-9004-e0403ac1e94c | File: temp_VIVI_CV.pdf | Page: 2
 2025-05-14 14:03:27,467 - Chunk Stored: 185b713e-e5d8-46a8-b023-a6e1df218722 | File: temp_VIVI_CV.pdf | Page: 2
 2025-05-14 14:03:27,467 - Chunk Stored: 01e996b0-9e4f-422d-b3de-b4b0e24e5cbe | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 14:32:34,738 - Use pytorch device_name: cpu
+2025-05-14 14:32:34,738 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:34:07,309 - Chunk Stored: 637bf3c4-3070-4aa0-b689-3a0ef5b91afb | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:34:07,309 - Chunk Stored: 4da01e12-8289-44cd-a59f-23f8e6d4ec1c | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:34:07,309 - Chunk Stored: b0683733-d5b3-45be-ac3c-76578bb8844d | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:34:07,309 - Chunk Stored: 69f76b69-4949-48bd-ad59-77df7dbd8bfc | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:34:07,309 - Chunk Stored: 3240a757-62d5-4893-878a-094693c61e27 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:34:07,310 - Chunk Stored: 9c31789d-757e-478e-900f-97a6aec97435 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:34:07,310 - Chunk Stored: c63b3d3e-c582-40da-9281-53cad921a9bd | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:34:07,310 - Chunk Stored: c436c299-6149-4dca-86ac-2031e141d8a4 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:34:07,310 - Chunk Stored: 9c711c6d-a182-41fa-87de-16b57cfd3ca6 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 14:47:12,445 - Use pytorch device_name: cpu
+2025-05-14 14:47:12,445 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:47:27,672 - Use pytorch device_name: cpu
+2025-05-14 14:47:27,672 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:48:40,974 - Use pytorch device_name: cpu
+2025-05-14 14:48:40,974 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:49:34,749 - Use pytorch device_name: cpu
+2025-05-14 14:49:34,749 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 15:53:05,227 - Use pytorch device_name: cpu
+2025-05-14 15:53:05,227 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 15:53:37,924 - Chunk Stored: 4dc012e8-c34c-4f83-9037-ef9b2dc7eed6 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 15:53:37,924 - Chunk Stored: 83767758-6b54-4ec7-817c-18a5757f30b8 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 15:53:37,924 - Chunk Stored: f056fa22-c3e7-4ef9-93d0-785953a69167 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 15:53:37,925 - Chunk Stored: 4b0c07fc-0a2e-4f95-b2e7-1d8d70f8fcc8 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 15:53:37,925 - Chunk Stored: 17c2d086-7388-44f2-a2f8-0af7a5c64bd1 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 15:53:37,925 - Chunk Stored: 243d2d85-d2c6-4d15-b30f-2a819e29086e | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 15:53:37,925 - Chunk Stored: 04414863-2c01-4032-b68a-6d2cebc6def6 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 15:53:37,925 - Chunk Stored: bc00863e-ffab-4930-a68e-5dcdeab42095 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 15:53:37,925 - Chunk Stored: 1f7502f4-e56a-4532-8666-e0c66f067529 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-14 15:57:52,920 - Chunk Stored: 712714ac-f360-4799-9305-279c0e362ac9 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:57:52,920 - Chunk Stored: 37ff6479-795e-46e2-8375-a4a34967ffcc | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:57:52,920 - Chunk Stored: ec7241dc-7f49-43af-bb64-ddf9827f815a | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:57:52,920 - Chunk Stored: 3bf8ff15-faf1-4dea-b895-4e2698c0fadb | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:57:52,920 - Chunk Stored: df08578a-dda2-426c-85ca-467d6d340e2a | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:57:52,920 - Chunk Stored: 8e39b1d5-1912-42e4-bd34-984c452233ce | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:57:52,920 - Chunk Stored: e0b08a75-f08e-4c87-b9bd-3004e7bc09a8 | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:57:52,920 - Chunk Stored: ca094006-437d-44ad-93c6-7c4f4d45c0cf | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:57:52,920 - Chunk Stored: 994aa1c7-9485-48e5-a879-0fe40fec75f8 | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:57:52,920 - Chunk Stored: 4f2b30bc-ed4c-4fae-896f-3ced63501546 | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:57:52,920 - Chunk Stored: 5bbd6b21-1e9e-4f82-90e9-e09e9c4db9ed | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:57:52,920 - Chunk Stored: edac6e5a-15ed-4f7e-b05e-9b1f05dc4720 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:57:52,920 - Chunk Stored: 65400633-3f98-4b3c-8762-be3925008b36 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:57:52,920 - Chunk Stored: 8a23be9c-4ee8-4032-a71c-a43653890a1a | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:57:52,920 - Chunk Stored: 4c578d46-455d-4a11-8c39-685ad24b59ca | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:57:52,920 - Chunk Stored: 123b3c43-d7f7-4105-8e9b-73ab3c31aedc | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:57:52,920 - Chunk Stored: 10a7fd89-7185-4b81-b6f2-5cef48a46280 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:57:52,920 - Chunk Stored: 2f1c9a34-25fe-4d5b-87ae-ca443f7ad632 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:57:52,920 - Chunk Stored: 5bd7a057-f85f-47a8-8ee0-9d8142062712 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:57:52,921 - Chunk Stored: 9ba42d15-5fa4-4e9a-8dea-648e6f7aa957 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:57:52,921 - Chunk Stored: a47d9dfb-5033-431d-9395-6f206cc302f9 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:57:52,921 - Chunk Stored: 17ec263e-0876-4a87-98c1-2f83dafc4b45 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:57:52,921 - Chunk Stored: 58ccad28-cf58-4d33-b65e-7a38134882c5 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:57:52,921 - Chunk Stored: ba2aea02-a01f-492f-a9a9-f728b8168caf | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:57:52,921 - Chunk Stored: d882a33c-66c1-4b1c-9400-de7f116baee2 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:57:52,921 - Chunk Stored: f7409738-58ec-4362-99b1-8e5160038ff9 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:57:52,921 - Chunk Stored: 41d9a662-6182-4d71-a887-1944e31c872e | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:57:52,921 - Chunk Stored: ced4c28f-e214-4c41-98cb-6b187bb4240b | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:57:52,921 - Chunk Stored: 1d7a2c1a-e690-498b-86e5-cda376af6c0f | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:57:52,921 - Chunk Stored: f1a1b9bc-2fa3-4cf6-9e2e-0d5e8af4fb47 | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:57:52,921 - Chunk Stored: 1822fe04-9611-42fa-946c-ed38e37287a0 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:57:52,921 - Chunk Stored: 7d630bee-8743-485a-8cf5-59744f606ab8 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:57:52,921 - Chunk Stored: cf6f7000-adc0-44b7-89d3-e78128b13f4d | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:57:52,921 - Chunk Stored: 57562132-0a35-4c05-b178-76a5238d4b21 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:57:52,921 - Chunk Stored: 544f2515-63ab-48a3-9d1b-6a005f51a68f | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:57:52,921 - Chunk Stored: 9ec4a054-f415-4555-8365-69d905d6d59a | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:57:52,921 - Chunk Stored: ebccb3a0-39b2-42cf-863a-f8035e2132ca | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:57:52,921 - Chunk Stored: adc66b2c-58b9-45e5-94f9-1d160b6ba6d6 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:57:52,921 - Chunk Stored: 955a7898-f9aa-4ccc-ac52-42a376bfcf46 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:57:52,921 - Chunk Stored: e9789a1d-eacc-4178-ae46-2c245c409c73 | File: temp_SAN Project Reference List February 2025.pdf | Page: 9
+2025-05-14 15:57:52,921 - Chunk Stored: fbaa664a-c71c-414c-8345-fada5b9c8adf | File: temp_SAN Project Reference List February 2025.pdf | Page: 9
+2025-05-14 15:59:00,184 - Chunk Stored: 687b614f-c0ba-4fa7-9b2e-5b75beb011a7 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:59:00,184 - Chunk Stored: 0463eebb-6059-4380-8b16-fd691e74bd68 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:59:00,185 - Chunk Stored: 31437652-0a7c-4656-804b-bd24b43fb2b7 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:59:00,185 - Chunk Stored: 47cdc7e4-65e9-4d06-9244-1f0584aa2e52 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:59:00,185 - Chunk Stored: a370e51c-34d4-431b-81ed-c3049d0de550 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:59:00,185 - Chunk Stored: 1eae2b88-8238-47d6-8ccc-9b9f26b29ff9 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 15:59:00,185 - Chunk Stored: c52d9729-a9a6-4930-9ae7-fc6e2d93ee41 | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:59:00,185 - Chunk Stored: 69960a9c-77f0-4c43-a71a-650636873256 | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:59:00,185 - Chunk Stored: 6832a29a-b6a3-474b-9a12-347146ae6f7c | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:59:00,185 - Chunk Stored: 6474782b-82fc-48d2-a048-f12b9e1147f4 | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:59:00,185 - Chunk Stored: 14d9a449-2a34-40cc-8225-197cbcb88140 | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 15:59:00,185 - Chunk Stored: c9ff34d9-45d7-4661-aafc-ae9df7b22825 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:59:00,185 - Chunk Stored: 7656aea9-4512-4acd-853e-4f2ca2d3eaa2 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:59:00,185 - Chunk Stored: 0058ccfb-b818-4abc-a334-e2e5929c7dba | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:59:00,185 - Chunk Stored: 4eeda3f2-55ae-4773-8bc6-08bc6006e418 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:59:00,185 - Chunk Stored: 36ee1e88-11d6-4f69-b0ed-58509bd9e741 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 15:59:00,185 - Chunk Stored: 278f59f8-ad06-44e2-8302-0c7b36a66f87 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:59:00,185 - Chunk Stored: 741ff143-5192-4141-aa56-1dc8ec62e69e | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:59:00,185 - Chunk Stored: 1edc0479-0b12-499f-b3e8-3d151c5f5aa2 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:59:00,185 - Chunk Stored: b3701b1f-6237-4181-9631-59577d86a3fb | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:59:00,185 - Chunk Stored: a88b81a2-0c5e-464a-b5ee-8883f39a53b2 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 15:59:00,185 - Chunk Stored: e9b6d830-1aaa-46a4-bdbc-daca9d783faa | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:59:00,185 - Chunk Stored: 414571d4-4de2-49cd-a478-7e012cf4f568 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:59:00,185 - Chunk Stored: 8e2e52d7-eb4c-410b-8305-5e4551e3f58d | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:59:00,186 - Chunk Stored: 1f2c8d9d-8c72-4d32-a37b-0dc18572c544 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:59:00,186 - Chunk Stored: 2ee4797e-72a5-48d3-a705-e4c2a47683bb | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 15:59:00,186 - Chunk Stored: 91468603-1bb7-40d4-b2ab-d5cb319e36c0 | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:59:00,186 - Chunk Stored: 1bdbeac7-0634-487e-9475-c8f69dd095f9 | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:59:00,186 - Chunk Stored: dd54d418-65e0-4e33-a4f8-799ff49ee82c | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:59:00,186 - Chunk Stored: 177d7e0f-288b-47a5-a323-b58c7ec80234 | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 15:59:00,186 - Chunk Stored: 3c447f26-fc83-4774-bbbb-d788ba3d11ed | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:59:00,186 - Chunk Stored: fa9f1185-9391-442b-a87e-99a91cdec6e6 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:59:00,186 - Chunk Stored: a515bed6-c8e4-405c-842a-042cf7956162 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:59:00,186 - Chunk Stored: ec34ad04-5d9c-4f1c-9519-0bf05ca4e647 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 15:59:00,186 - Chunk Stored: 53073a85-9374-48a0-aff4-eda464bae684 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:59:00,186 - Chunk Stored: c6fe08ad-ae6b-4228-bbd2-56893ada5aac | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:59:00,186 - Chunk Stored: 46765709-cb48-4b9d-9c09-46a0401fb0d2 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:59:00,187 - Chunk Stored: 097d3e0c-6106-4a37-9eeb-b8845e7e2b83 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:59:00,187 - Chunk Stored: c730a89e-2eaf-4d0d-9a75-61821d6a5e84 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 15:59:00,187 - Chunk Stored: d464d25e-ecb0-4cfb-8aa6-72e015519535 | File: temp_SAN Project Reference List February 2025.pdf | Page: 9
+2025-05-14 15:59:00,187 - Chunk Stored: 73528897-8a3f-4ec9-8cfe-c972f17c144d | File: temp_SAN Project Reference List February 2025.pdf | Page: 9
+2025-05-14 16:01:21,534 - Chunk Stored: 91826bec-cc7d-4b24-8dd7-e7ea2e596bd4 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 16:01:21,534 - Chunk Stored: 0564dfa9-b50e-4e15-b218-fc96df37a0bc | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 16:01:21,534 - Chunk Stored: 0930e5a3-ecbe-4f9e-b920-5dda93a8f749 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 16:01:21,534 - Chunk Stored: 2e37405b-3b92-4b8a-8d3b-7a2d12fdbc18 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 16:01:21,534 - Chunk Stored: fda33c97-3bbb-4b55-a1e0-43e37d1ce9d6 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 16:01:21,534 - Chunk Stored: 3247df9d-139e-4317-9509-55d379c33539 | File: temp_SAN Project Reference List February 2025.pdf | Page: 1
+2025-05-14 16:01:21,534 - Chunk Stored: 4f2e3a4d-a4b3-4cb4-9ce8-2de2a92811dc | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 16:01:21,534 - Chunk Stored: a47470bb-15d3-4f9b-8c48-8d998e7e83fe | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 16:01:21,534 - Chunk Stored: 0e63647d-659f-492d-a511-ae0050c6b71b | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 16:01:21,534 - Chunk Stored: 2b64102e-d25a-478f-bc0d-3a297c795c9d | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 16:01:21,534 - Chunk Stored: 483a6084-d024-43cf-8604-90f5ad1964fb | File: temp_SAN Project Reference List February 2025.pdf | Page: 2
+2025-05-14 16:01:21,534 - Chunk Stored: 7fc32d54-75c5-4f5d-8e46-a1021bf3d0df | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 16:01:21,535 - Chunk Stored: 93ce0377-11f1-426f-95a4-67a28f1519a9 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 16:01:21,535 - Chunk Stored: 4121785c-9398-4d32-9d38-029d1bddece8 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 16:01:21,535 - Chunk Stored: 26b6b3f9-e2ce-41ff-ac04-0f6766771858 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 16:01:21,535 - Chunk Stored: d94cccde-6a95-46b4-a722-e3db5ad6a079 | File: temp_SAN Project Reference List February 2025.pdf | Page: 3
+2025-05-14 16:01:21,535 - Chunk Stored: 3f0b45d9-9873-4128-817b-bbdc77b91429 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 16:01:21,535 - Chunk Stored: de8f316a-9ce5-426c-9046-49274a4a4961 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 16:01:21,535 - Chunk Stored: c4013cc9-4237-498c-941e-5f436948401a | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 16:01:21,535 - Chunk Stored: b7ebd61a-c4a8-4195-aa9e-f38a290bbe64 | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 16:01:21,535 - Chunk Stored: b16a5070-9ca1-4549-804b-621f6692fe5e | File: temp_SAN Project Reference List February 2025.pdf | Page: 4
+2025-05-14 16:01:21,535 - Chunk Stored: 8778e3f3-4704-4420-bef8-97023b82a24f | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 16:01:21,535 - Chunk Stored: 48767ad9-49a8-4167-8b41-e0cd97a2d82c | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 16:01:21,535 - Chunk Stored: f4656fbc-abd3-4998-991f-a81fb06d9217 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 16:01:21,535 - Chunk Stored: e8325a8d-9af7-4389-bb5e-5034683ba497 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 16:01:21,535 - Chunk Stored: 7e61b147-8831-49af-b79c-e2a7e166a7f1 | File: temp_SAN Project Reference List February 2025.pdf | Page: 5
+2025-05-14 16:01:21,535 - Chunk Stored: 21adc112-1d9f-467e-935a-8c4041585d5d | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 16:01:21,535 - Chunk Stored: 29c68780-16f4-406e-bbb5-d10767b6f289 | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 16:01:21,535 - Chunk Stored: 4d12ec40-e8ab-4331-9044-788cfa57be26 | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 16:01:21,535 - Chunk Stored: 5cbf43a2-4a29-42e6-a19a-5e3a258f2ee0 | File: temp_SAN Project Reference List February 2025.pdf | Page: 6
+2025-05-14 16:01:21,535 - Chunk Stored: d6ffa2c9-527a-4e43-9751-6b5634a320a3 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 16:01:21,535 - Chunk Stored: 510bc043-ad4d-483b-af67-e3c69191e211 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 16:01:21,535 - Chunk Stored: 5ff66251-f741-4f6a-a01f-3093f20a4af0 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 16:01:21,535 - Chunk Stored: 08a5219d-b9f0-4c03-99e6-64c2bdeb7573 | File: temp_SAN Project Reference List February 2025.pdf | Page: 7
+2025-05-14 16:01:21,535 - Chunk Stored: db97db6a-4efe-4789-b0e0-d494c0b8e8a2 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 16:01:21,535 - Chunk Stored: 62111479-6021-4d83-945e-5556f9b6428d | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 16:01:21,535 - Chunk Stored: 5b525b7f-b6e4-41fa-a6ff-c8f68e454cc7 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 16:01:21,535 - Chunk Stored: 18c41784-cfc5-4687-92d4-af9eef483d5b | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 16:01:21,535 - Chunk Stored: 400c8053-655b-4fe7-ae13-4ef878c59f89 | File: temp_SAN Project Reference List February 2025.pdf | Page: 8
+2025-05-14 16:01:21,535 - Chunk Stored: 7badf084-5e94-4a22-8b03-961df1e1de60 | File: temp_SAN Project Reference List February 2025.pdf | Page: 9
+2025-05-14 16:01:21,535 - Chunk Stored: 19984902-88f6-4729-9611-607501df246b | File: temp_SAN Project Reference List February 2025.pdf | Page: 9
+2025-05-14 16:54:08,009 - Chunk Stored: d4b5c276-a72b-4e58-9e8c-dae6ce05597c | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-14 16:54:08,009 - Chunk Stored: b2cf943d-129f-445d-a240-ddd8779d1c3b | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-14 16:54:08,009 - Chunk Stored: eee6cacb-b042-444b-a896-305d4257c023 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-14 16:54:08,009 - Chunk Stored: e77f14f3-6750-400b-88a3-558dbc185c41 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-14 17:03:01,369 - Chunk Stored: a6f96aea-4433-4b5e-95d5-e4837b5406b1 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-14 17:03:01,369 - Chunk Stored: 5483a0bb-254e-4021-9bed-c548b5769e84 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-14 18:30:55,149 - Chunk Stored: d9b819a4-6808-4435-b171-6536c33b7cf8 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-15 11:47:15,034 - Use pytorch device_name: cpu
+2025-05-15 11:47:15,070 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-15 11:47:39,299 - Chunk Stored: 1c2d2b07-f946-498a-a95f-787a94b7447f | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-15 11:47:39,299 - Chunk Stored: 4ce7e9e8-5673-46a1-961d-c5ad508f0c90 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-15 11:47:39,299 - Chunk Stored: ebf739f5-6c1e-46a1-b6a3-df34b391ea58 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-15 11:47:39,299 - Chunk Stored: 8d37ca56-5766-44ee-b0dd-daf60279c544 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-15 11:47:39,299 - Chunk Stored: d554b603-e432-4455-a5b7-bd06e63ced83 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-15 11:47:39,299 - Chunk Stored: 0a0125b2-edb3-4e46-b421-05b42c7eee63 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-15 11:47:39,299 - Chunk Stored: 2524cc3d-85ac-455d-bfb2-caf70cde7524 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-15 11:47:39,299 - Chunk Stored: a29a064b-8aa8-4a78-b349-8f403056defd | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-15 11:47:39,299 - Chunk Stored: 7821f26c-3e3b-43b1-aeff-f7fc8b4ed29b | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-15 11:48:10,141 - Chunk Stored: 8c388295-3249-49d8-95a4-dbd26dbfaa7b | File: temp_ds vj cer.pdf | Page: 1
+2025-05-15 11:48:10,142 - Chunk Stored: e626ceeb-93a9-4e86-8136-c5e909607e15 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-15 11:48:10,450 - Chunk Stored: 94488926-3c9c-4b9c-af7b-e253de19ec8d | File: temp_FORM-T5.pdf | Page: 1
+2025-05-15 11:48:10,451 - Chunk Stored: ddaea8d7-fc0e-47fa-935e-2b701a8dd48e | File: temp_FORM-T5.pdf | Page: 1
+2025-05-15 11:48:10,934 - Chunk Stored: 95825cf8-350c-413c-adf6-8397d0d777c4 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-15 11:48:10,934 - Chunk Stored: 35d2523d-107e-4b7e-8b90-6291f00160ae | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-15 11:48:10,934 - Chunk Stored: 56c3ef82-6a6d-4c54-9a30-04bafa4612e1 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-15 11:48:10,934 - Chunk Stored: 47edcc17-dd3a-4400-a884-830bc578e6fb | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-15 11:48:11,068 - Chunk Stored: 901ef69c-8af7-476e-9451-a85e4255ec20 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-15 11:48:11,068 - Chunk Stored: f1404e2e-735b-4858-889e-09cdf6ffe2c5 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-15 11:48:11,194 - Chunk Stored: 8e106746-df81-4aa5-8607-00e420f892fa | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-15 11:48:11,195 - Chunk Stored: 6d643552-9848-491e-985a-f46f4c1b0e65 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-15 11:48:12,039 - Chunk Stored: b91d4e9b-0268-489d-9f79-664533c4e469 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-15 11:48:12,039 - Chunk Stored: 2aeef58f-d87b-4279-926a-7092db38186d | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-15 11:48:12,039 - Chunk Stored: a0ab9120-14c0-43c9-aa58-41da600dd87e | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-15 11:48:12,039 - Chunk Stored: 0ca43ddf-7ec5-4adb-9cc1-b3ea8e73e143 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-15 11:48:12,040 - Chunk Stored: 70501d32-264c-41cd-be2d-6c796ef85108 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-15 11:48:12,040 - Chunk Stored: 60bfb68d-509e-4b6d-a32d-b84b2b59f270 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-15 11:48:12,040 - Chunk Stored: 32cf988a-d042-4f1a-8bb9-49f8a3a78a5b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-15 11:48:12,040 - Chunk Stored: 36bd66eb-90b6-4905-9730-8dbfd7de064f | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-15 11:48:12,040 - Chunk Stored: c26d8e60-d76f-4149-9c12-4b4dfde3bba1 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-15 11:48:12,040 - Chunk Stored: 45e3c26d-c316-471d-be35-da68d72ffb3f | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-15 11:48:12,040 - Chunk Stored: f72e88b7-9c79-4243-aedd-84bc0ba5d132 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-15 11:48:12,040 - Chunk Stored: 5712fd51-6af5-40c6-bc30-82d1a3ebbae3 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-15 11:48:12,105 - Chunk Stored: 68a62d85-f3e0-476e-b8e8-724bfdf4607d | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-15 11:48:12,167 - Chunk Stored: 3eab1afe-91e1-4d15-91b3-7c2258458082 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-15 11:48:12,218 - Chunk Stored: 65943d5d-cfc6-4e77-901a-74be12fe27de | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 09:27:13,509 - Use pytorch device_name: cpu
+2025-05-16 09:27:13,525 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-16 09:31:07,905 - Chunk Stored: bbe68b7c-fdf8-475c-bd2d-1ad5c72db82b | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-16 09:31:07,905 - Chunk Stored: b6dc6f34-4a09-45b0-8972-39b5c3b0fc09 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-16 09:31:07,906 - Chunk Stored: 3eb884ec-b33b-44c9-88c6-aa074978f24b | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-16 09:31:07,906 - Chunk Stored: 0154e893-6178-44f2-9ca0-19556f34eb35 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-16 09:31:07,906 - Chunk Stored: 5d0d8bad-a9c2-4852-9cbc-38efbc5dc62b | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-16 09:31:07,906 - Chunk Stored: 051da9d3-aa3b-4d01-bbbf-5fc11531fdae | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-16 09:31:07,906 - Chunk Stored: 71a4fd3a-a010-415b-9a01-2e372ce9d04d | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-16 09:31:07,906 - Chunk Stored: f26d8018-5e01-47b4-b2b4-df79cec6b428 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-16 09:31:07,906 - Chunk Stored: c95e7836-805a-4d76-8328-57f8e0f67932 | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-16 10:17:08,445 - Chunk Stored: 7139e320-8370-4533-8921-2f11541d3639 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 10:17:08,498 - Chunk Stored: afe25380-ef7a-4aa3-95af-d731c599f9e7 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 10:17:09,840 - Chunk Stored: debd02f5-5977-49b1-9b60-279a57def889 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:17:09,840 - Chunk Stored: 91897b58-1bee-4fe1-97fe-0400a07728ab | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:17:09,841 - Chunk Stored: e7a33fc0-d7ff-4d9a-a4ae-3e417c4cdd8a | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:17:09,841 - Chunk Stored: 72682c78-5d71-4068-a139-e255b4c5c9b6 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:09,841 - Chunk Stored: 0a72e20f-0363-440f-8e25-6bd2fd123a2b | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:09,841 - Chunk Stored: 80317e88-b58c-499d-ada6-e70d7a658731 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:09,841 - Chunk Stored: da8bc24b-688a-4085-b47f-813824badc0c | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:09,841 - Chunk Stored: 97165a33-1aac-4513-8867-90e4790d1a05 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:09,841 - Chunk Stored: 12b5fa9a-d1d7-407a-99e0-48a464051570 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:09,841 - Chunk Stored: 14248b3f-c0e2-4f0c-a221-98439615b788 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:17:09,841 - Chunk Stored: e4723563-80b3-4e44-8025-2083f78f1508 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:17:09,841 - Chunk Stored: 014299ae-6d96-4d85-917e-beee6556814f | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:17:17,206 - Chunk Stored: b9caef35-0471-4d48-9e76-101226dee9e0 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 10:17:17,275 - Chunk Stored: 3255dbd8-afce-498e-ae6d-165c52bfe6fc | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 10:17:18,034 - Chunk Stored: 1c9d62c8-7227-40a9-b948-0073364700e5 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:17:18,034 - Chunk Stored: 11e112a9-f5ff-4f36-b2ae-724f26610017 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:17:18,034 - Chunk Stored: ea621bad-4e51-4473-80eb-2a1043475269 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:17:18,034 - Chunk Stored: 93de0a2f-5520-4da9-a95e-0e1b4d1a4b95 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:18,035 - Chunk Stored: f6172779-a89d-4b8c-bbc3-9e2dfaf2c078 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:18,035 - Chunk Stored: aa42f943-71af-4ec4-b9a3-360fcf350bf8 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:18,035 - Chunk Stored: 8d0b35e8-d14c-4594-b6d6-68c09bdd8803 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:18,035 - Chunk Stored: b5385486-025a-4c4c-8cc9-7b9d75fba4c3 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:18,035 - Chunk Stored: ec5e8317-4caa-45d3-9a8f-f9cd4d55ee03 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:17:18,035 - Chunk Stored: a1438468-e9f0-4637-9103-8de56db5c9fa | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:17:18,035 - Chunk Stored: c27b8feb-8b07-4470-9678-1165bd460b29 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:17:18,035 - Chunk Stored: d99c63ce-ede3-4ed5-a99d-0ec44b0e2d88 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:18:40,444 - Chunk Stored: 4f42f88f-742c-470d-a129-519fa770867f | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 10:18:40,444 - Chunk Stored: 7611da5f-99de-4dcd-88b7-1d39ae9bea9a | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 10:18:40,444 - Chunk Stored: c3d54189-9427-4c3c-b374-f5e5149ea896 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 10:18:40,444 - Chunk Stored: e5975255-e557-47e8-8f5c-bb885fdc0516 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:18:40,444 - Chunk Stored: 1853a4b2-11eb-424f-83cd-cd40dfab15f6 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:18:40,444 - Chunk Stored: 9ea66126-e6d4-48d5-a14f-bee6d35dbe92 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:18:40,444 - Chunk Stored: 2802f5f9-93fc-411b-8527-782f7d78dd2a | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:18:40,444 - Chunk Stored: f437714c-4eca-4760-93dc-e3ec689ee629 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:18:40,444 - Chunk Stored: cfb8e848-4554-4302-a850-b3d0775e070f | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:18:40,444 - Chunk Stored: e5c8b4e5-975e-43d6-887d-0b727570aa1c | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 10:18:40,444 - Chunk Stored: ceec43f4-16af-4087-ba23-449f8c68b57f | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 10:18:40,444 - Chunk Stored: c8fe6e29-c303-41f6-90df-b56e1f06bdaa | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 10:18:40,509 - Chunk Stored: f100b61b-276a-4a71-a7c7-b10fe144fcbe | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 10:18:40,578 - Chunk Stored: 64771155-2877-4286-90de-5fd4482415e5 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 10:23:17,950 - Chunk Stored: b595522f-6611-4dbd-b5ab-dc5222179c6f | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:23:17,950 - Chunk Stored: e259c8f0-e9ce-49b8-8a9f-c1a0f1c528a4 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:23:17,950 - Chunk Stored: 615f54e2-f218-4fff-bc52-b493092b897f | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 10:23:17,950 - Chunk Stored: b7cd5141-0bdd-4ca5-a9da-dd218ce3760f | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:23:17,950 - Chunk Stored: 4e0e57eb-1949-4d6a-897c-ae97077db8d5 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:23:17,950 - Chunk Stored: 3ef42d37-5be1-4fee-9d84-70cd563e2e67 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:23:17,950 - Chunk Stored: 73846bed-46c1-4b89-bade-c31414fab75d | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:23:17,950 - Chunk Stored: 9e80680c-9f83-4829-afa0-0ba7035cef26 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:23:17,951 - Chunk Stored: dae90854-b33f-486f-baea-94aba927791a | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 10:23:17,951 - Chunk Stored: 0c5d496e-99e1-4522-9cb2-ba15c9531ba1 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:23:17,951 - Chunk Stored: 9e05b978-1bfe-4236-86df-95556ef9a0d0 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:23:17,951 - Chunk Stored: d790f5ab-263e-42e1-85a5-581a77f9251a | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 10:23:18,458 - Chunk Stored: cd8f6978-a892-4e01-b15b-8f796d973f98 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 10:23:18,458 - Chunk Stored: 8623b86c-0a4d-4e4e-89aa-c9b76c8a247b | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 10:23:18,458 - Chunk Stored: a4c5a9b0-6729-43ec-b66a-08bd321f0aa2 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 10:23:18,458 - Chunk Stored: 0618bc01-68b8-48da-a416-183201d66cb8 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:23:18,458 - Chunk Stored: 12a596d2-a339-4a5e-9301-fbeec4e53693 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:23:18,458 - Chunk Stored: 62dd94e4-1aeb-45f5-9bf9-f234d4d7883f | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:23:18,458 - Chunk Stored: fbabe65e-9d65-4201-ad06-10ba981fc613 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:23:18,459 - Chunk Stored: 9c000dd2-dae5-4c2e-b518-41d59bb04b39 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:23:18,459 - Chunk Stored: 9b643b9f-0358-45e9-a458-a87b6cac016b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 10:23:18,459 - Chunk Stored: 2b3ae385-8e64-4b90-b570-78adc57ecd8e | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 10:23:18,459 - Chunk Stored: 66b68536-4cf4-4b7e-b7ca-5a9548457997 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 10:23:18,459 - Chunk Stored: 44c26596-5704-4be5-8c5d-1f45be38faa6 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 10:23:18,503 - Chunk Stored: 51fea8d3-2a2b-4f9c-b4c8-2a9082378f5b | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 10:23:18,545 - Chunk Stored: 322e4c68-3427-4799-95fc-ab9d19ac2caa | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 10:36:01,450 - Chunk Stored: 8682bd20-0d95-4e93-b3a1-f5f1d480dc35 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 10:37:10,851 - Chunk Stored: 8d675a23-8f34-460b-89ab-b0d21eebfe13 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 10:37:10,886 - Chunk Stored: 1c897647-f806-4f47-8c2e-0c993ab6cf8a | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 10:37:10,932 - Chunk Stored: d8eedbb5-1c0e-439d-8277-2ff296e46960 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 11:02:26,759 - Chunk Stored: d355d9c6-0c0a-4269-9f4e-605d8a98bcb1 | File: temp_9542087203.docx | Page: 1
+2025-05-16 11:02:27,055 - Chunk Stored: 0b19dc46-cbd9-4e07-a046-8ea675e1700e | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 11:02:27,055 - Chunk Stored: 0b394a05-05f7-4e6c-8467-e29c0f2756d7 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 11:02:27,056 - Chunk Stored: a4170289-53c3-4615-892d-a85c5867ce96 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 11:02:27,056 - Chunk Stored: 1e8daf41-ffff-4e10-b97e-340cc2bc74ca | File: temp_Auto-cad.pdf | Page: 2
+2025-05-16 11:02:27,257 - Chunk Stored: 43a0006c-9acc-463d-97bd-a4dd66127375 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 11:02:27,257 - Chunk Stored: 98a633e0-f44f-4e2f-b440-01d80b684108 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 11:02:27,495 - Chunk Stored: 1cc83830-530b-4c64-b1ae-afef456dbc72 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 11:02:27,495 - Chunk Stored: 2fa69b67-c672-4fa8-88d5-310664bd08a1 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 11:02:28,028 - Chunk Stored: 0aee9a44-eec8-4081-849f-5b913b07c632 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 11:02:28,028 - Chunk Stored: b39649f4-ced2-4497-abdc-08b3b6966232 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 11:02:28,417 - Chunk Stored: 3ed78a40-8014-4f0c-b473-290591b012a1 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 11:02:28,417 - Chunk Stored: f44a476a-d26e-4c46-b813-e3dac3c54680 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 11:02:28,418 - Chunk Stored: 18c46766-5f9a-4a3c-b515-f6b82ef9a894 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 11:02:28,418 - Chunk Stored: 08f36253-1015-4fe4-bc9f-62d8ae33947d | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 11:02:28,821 - Chunk Stored: e6754f7f-debc-473b-a853-f1879fb58ecc | File: temp_K.BhavaniSankaraRao-old.docx | Page: 1
+2025-05-16 11:02:28,821 - Chunk Stored: b17d3d23-f152-48bc-a986-1e5d50afcda8 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 2
+2025-05-16 11:02:28,821 - Chunk Stored: d0e30d29-e872-4120-85b7-c2fa9522d270 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 11:02:28,821 - Chunk Stored: d2643bcb-657d-469d-8dda-d3cc5e3cb757 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 11:02:28,821 - Chunk Stored: 427b5d73-6c3d-47da-8789-c6ae22d87af9 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 4
+2025-05-16 11:02:28,821 - Chunk Stored: 4868866a-b584-4667-9be7-0e98f584a771 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 5
+2025-05-16 11:02:28,821 - Chunk Stored: e2cc00f0-4668-48ee-8156-427bc690a0cb | File: temp_K.BhavaniSankaraRao-old.docx | Page: 6
+2025-05-16 11:02:28,909 - Chunk Stored: 429b8ad5-b76a-4983-a96a-6d545f3e3f42 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 11:02:28,909 - Chunk Stored: b79a4860-70f6-4bfe-9eeb-aa43f98d98c5 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 11:02:29,000 - Chunk Stored: e1093145-5aff-483a-ae75-7f61803921ae | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 11:02:29,000 - Chunk Stored: db32450b-3183-44ab-bf49-c4df9dbe5a2d | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 11:02:29,677 - Chunk Stored: 7fec31c5-5c53-40ac-b71e-2e86bb3e14ad | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 11:02:29,677 - Chunk Stored: 4348298c-927f-4f2a-84a9-aeaebf497e2f | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 11:02:29,678 - Chunk Stored: 2196f535-a167-4dc2-8fd4-47ba5fe8469e | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 11:02:29,678 - Chunk Stored: d6cbf1c3-438c-4dc3-924d-541c292ebf5a | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 11:02:29,678 - Chunk Stored: dadbf638-4b65-4fb8-858e-c3f827d11c32 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 11:02:29,678 - Chunk Stored: 1dca4d1a-bcaf-4550-b13d-194f9a0a08eb | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 11:02:29,678 - Chunk Stored: 65dd8e07-1b70-4b3b-9bc5-6cf0e2dc7a6e | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 11:02:29,678 - Chunk Stored: e398faf1-8a5f-4237-9f14-f113af9d523c | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 11:02:29,678 - Chunk Stored: 16f896f3-45da-4be7-9e13-88aca6781b25 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 11:02:29,678 - Chunk Stored: 61eef994-70bc-4ca1-b03b-f8a349c05016 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 11:02:29,678 - Chunk Stored: 5c15b53e-752e-4a7b-b3b9-b37366116138 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 11:02:29,678 - Chunk Stored: 9d48fbf0-8a4c-4f65-a016-ebd97386c5da | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 11:02:30,268 - Chunk Stored: 3590ea9e-8de6-4f95-98df-fa5410f5b83c | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 11:02:30,268 - Chunk Stored: 793e12da-f9ae-409c-8023-2e70fd6e9223 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 11:02:30,268 - Chunk Stored: 84d42f8e-a20b-4bfd-b30b-84c9dd28db8b | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 11:02:30,268 - Chunk Stored: 9d8dfee2-a708-413d-8359-8d5678104dab | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 11:02:30,268 - Chunk Stored: 024f2939-5435-49ae-b77b-37b5ecde3145 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 11:02:30,268 - Chunk Stored: a2d188b1-d520-4d71-beb9-3383f6e6d76d | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 11:02:30,268 - Chunk Stored: c57c37a0-82ca-4db1-b748-0241756a4791 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 11:02:30,268 - Chunk Stored: 0e6c0565-85da-4f4a-8b44-1cde6cba1c5d | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 11:02:30,268 - Chunk Stored: ae198d4b-ba76-42c9-959a-6d6c8e5c5231 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 11:02:30,268 - Chunk Stored: c2e0b9b6-d032-4c5e-85e1-364822083bdc | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 11:02:30,268 - Chunk Stored: 7c5094de-019a-4a49-a8a3-06331740a3a2 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 11:02:30,268 - Chunk Stored: 6c02a406-78d7-4c92-8b5b-b199506fafdd | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 11:02:30,318 - Chunk Stored: d9287ac2-0615-476c-8800-a3faa87c9421 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 11:02:30,362 - Chunk Stored: 22e0ec2a-d095-4715-b84d-39fafdf5c178 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 11:02:30,419 - Chunk Stored: 7b64aa56-ab6f-4715-9906-c39945337420 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 11:02:30,475 - Chunk Stored: ee78d322-f440-4d7d-98f1-f9836804d379 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 12:04:07,604 - Chunk Stored: 01c3038c-1515-4202-98fa-eda0a19ea52a | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 12:04:07,605 - Chunk Stored: d03e5ca4-82e2-438a-94ba-1ff60a319b11 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 12:04:07,974 - Chunk Stored: 0fb62189-22ab-4962-b5b9-d57c4c251c95 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 12:04:07,974 - Chunk Stored: d65b9494-669f-4be9-acdb-758ee71e53c6 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 12:04:08,343 - Chunk Stored: 4c769dc9-d198-4580-b817-590af33d8a27 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 12:04:08,343 - Chunk Stored: 880c5dc6-03ea-4053-aaaf-94919b89b4f8 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 12:04:08,878 - Chunk Stored: 5510dc4e-f1ed-4ab4-b806-df11c0359de3 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 12:04:08,879 - Chunk Stored: 323d5103-aadb-4f79-bef2-336f634980b7 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 12:04:08,879 - Chunk Stored: 58818138-b5ea-4b48-9fe7-c6cff39d27a9 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 12:04:08,879 - Chunk Stored: 299571a7-c84d-44b6-8184-93c274793327 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 12:04:09,313 - Chunk Stored: 4e2b0591-4634-424a-88c5-1e6ed44b6976 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 1
+2025-05-16 12:04:09,313 - Chunk Stored: 9f691efb-80d7-4b1b-8153-76565b54d87e | File: temp_K.BhavaniSankaraRao-old.docx | Page: 2
+2025-05-16 12:04:09,313 - Chunk Stored: 2f590122-ea85-4b82-8672-b8824fd5b6c3 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 12:04:09,313 - Chunk Stored: 1ecc83ec-4474-4e2d-bac0-de26400cade0 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 12:04:09,313 - Chunk Stored: 264de3f4-9c3c-4c2a-8e7b-ad12e62f2334 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 4
+2025-05-16 12:04:09,313 - Chunk Stored: 61f59fcc-40d3-46da-8e2a-a114cfb46c7a | File: temp_K.BhavaniSankaraRao-old.docx | Page: 5
+2025-05-16 12:04:09,314 - Chunk Stored: 27e3be48-ec67-4185-a56a-a25b2023967d | File: temp_K.BhavaniSankaraRao-old.docx | Page: 6
+2025-05-16 12:04:09,537 - Chunk Stored: a42fd6d9-1fa5-4ba9-8c15-888b7c9619de | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 12:04:09,537 - Chunk Stored: ed9bf408-a6ac-444d-bb47-27a88dd20d62 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 12:04:09,747 - Chunk Stored: 879116f0-5175-466f-9c5d-243dd3e37058 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 12:04:09,747 - Chunk Stored: 1ac377e7-5059-4149-ba3f-61e98481f22a | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 12:04:10,590 - Chunk Stored: 4e301383-5024-4d8d-974c-23597ce072f8 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 12:04:10,590 - Chunk Stored: 4fd29d58-438d-4aee-bfb8-65e2f1192114 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 12:04:10,590 - Chunk Stored: 0f72caac-5d00-4e41-bbe6-137b3067084e | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 12:04:10,590 - Chunk Stored: 34955165-874b-4bdd-a56e-43bda31b37e3 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 12:04:10,590 - Chunk Stored: 39c8d647-404c-46d5-9ef1-cf7c3eecf87c | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 12:04:10,590 - Chunk Stored: 5d89b57f-9931-4272-8176-4e51e6a24f26 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 12:04:10,590 - Chunk Stored: 4497831e-7b1e-4ede-a98d-662cb90a94f9 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 12:04:10,590 - Chunk Stored: 83aca765-1f40-44a8-bbd3-42611a7ffe40 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 12:04:10,590 - Chunk Stored: 23090323-774d-46fc-bba9-1ab8657e6d0d | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 12:04:10,590 - Chunk Stored: a78b0ad5-827c-4281-aa5a-80a9136c0d36 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 12:04:10,590 - Chunk Stored: f92974c6-d7c7-41bd-aade-21481c0ffe06 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 12:04:10,590 - Chunk Stored: 68b4d0c3-8c49-402f-a7c3-922860f853db | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 12:04:11,552 - Chunk Stored: 1d883964-5053-4fba-b4f9-ed51a7b558d9 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 12:04:11,552 - Chunk Stored: 697188f6-c623-4bf2-9d23-c764ebfc1e1e | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 12:04:11,552 - Chunk Stored: 291d4097-35c4-4af5-8bbd-29bc6259ab25 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 12:04:11,552 - Chunk Stored: 372e8322-ea12-4b95-8bcc-bb0b55de4d50 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 12:04:11,552 - Chunk Stored: e8a929b9-9c23-4185-9fcc-fcce1f0ef083 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 12:04:11,552 - Chunk Stored: fc8e8653-d936-4012-93f6-278fa2b4597b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 12:04:11,552 - Chunk Stored: e64f83f4-567d-4185-b9bc-86fd893ce8c1 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 12:04:11,553 - Chunk Stored: e2889d67-4829-4c4c-ae23-f8e8f3194101 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 12:04:11,553 - Chunk Stored: e7202762-5003-42fd-8c21-30cc0b3f0d6b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 12:04:11,553 - Chunk Stored: 15667917-51fd-4695-a305-d20d8bf2a179 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 12:04:11,553 - Chunk Stored: e9df35c6-ce3e-4aa3-87ed-25a26ba4be50 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 12:04:11,553 - Chunk Stored: 04eefd32-5236-45b9-b507-829b57cdbed3 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 12:04:11,705 - Chunk Stored: f9d1d008-f099-4542-9bb2-60c2ab73024f | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 12:04:11,830 - Chunk Stored: 810db777-92cd-4b48-9144-487a6160957c | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 12:04:11,992 - Chunk Stored: ce70e449-9a04-438a-90fc-2cf0186b61ce | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 12:04:12,100 - Chunk Stored: 368070be-b838-4534-ad90-30030aee0b48 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 15:27:48,890 - Chunk Stored: 27197a1d-67cc-4f8c-916f-940498733205 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 15:27:48,891 - Chunk Stored: d9e6400a-eb34-4842-9e59-4633876b7fd4 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 15:27:50,715 - Chunk Stored: adf07ebf-56bd-434c-83ff-d51e2bb18a6f | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:27:50,715 - Chunk Stored: 519224a1-dfdf-403f-9345-81f316873e37 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:27:50,715 - Chunk Stored: 0fe4f749-1591-4de2-a420-632cd24cdc4e | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:27:50,715 - Chunk Stored: e7361259-b955-4232-9ab7-988e86136efb | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:27:50,715 - Chunk Stored: add1464d-6489-4a4b-9e9f-7140ad3b64fc | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:27:50,715 - Chunk Stored: 97788fac-5aab-44bc-a1c7-9d4aed721a06 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:27:50,715 - Chunk Stored: b0686f98-3eb3-4712-afd8-db2b51905d7d | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:27:50,715 - Chunk Stored: c4956c75-a8ef-4463-ba58-0dab032c280f | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:27:50,716 - Chunk Stored: 8803de55-fea6-4a90-b025-d964e4694491 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:27:50,716 - Chunk Stored: f1124406-316f-4dfc-acd2-aa264d2def8c | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:27:50,716 - Chunk Stored: e409b6c4-69db-4c5d-b930-05fc0ad91492 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:27:50,716 - Chunk Stored: 5c0b4d8f-25e8-4f2f-b352-a2f2febeca52 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:27:51,875 - Chunk Stored: b9497ac6-cc50-40f8-b317-94203eaa01c0 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:27:51,875 - Chunk Stored: 699e7957-9748-480a-b0fa-d50221578d84 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:27:51,876 - Chunk Stored: 7f7a34b6-7a79-4357-b515-19a8214a8f62 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:27:51,876 - Chunk Stored: fc8f4936-b7f6-4d5f-acff-6279bba7b36c | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:27:51,876 - Chunk Stored: 47b6aa6f-ea0b-4c45-8058-c60bca7b47ae | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:27:51,876 - Chunk Stored: 58dc9292-7fc6-42c6-b0cf-f6bd788e7260 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:27:51,876 - Chunk Stored: 781a53be-1598-4ec4-a271-490881c1aef4 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:27:51,876 - Chunk Stored: 0543d7b1-41af-48a8-a51b-c8ec1cc1e9dd | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:27:51,876 - Chunk Stored: 26210cb7-aec3-40da-b27a-bdc2816a8645 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:27:51,876 - Chunk Stored: 8bf7f8ab-0d20-410c-9b59-cbd96b8f7769 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:27:51,876 - Chunk Stored: 52793177-0f9d-491e-8494-4ad0869ed9f2 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:27:51,877 - Chunk Stored: 75104557-2b28-41f5-8f5c-3172591b38d3 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:27:52,113 - Chunk Stored: ba9b3270-e4fd-45c6-bf5c-89a169111995 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 15:27:52,317 - Chunk Stored: cbf0bc88-2ce8-4479-aa22-84c91c676bc7 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 15:27:52,443 - Chunk Stored: 94c2c146-082b-4028-8e02-bb950e4e2a4e | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 15:27:52,550 - Chunk Stored: b2a6fb1f-1eea-42cd-8329-9dc0d3017e7a | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 15:29:27,482 - Chunk Stored: e51ee2dc-c98e-468c-b730-c5b3a7f3b2a2 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 15:29:27,483 - Chunk Stored: c57156c5-c7f0-4470-add0-35828d931d8c | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 15:29:27,483 - Chunk Stored: 8a27b415-ecbc-45c9-b23b-d67cd85550ce | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 15:29:27,483 - Chunk Stored: 47ca94f2-9710-4ff5-aa1a-ecdd286376ec | File: temp_Auto-cad.pdf | Page: 2
+2025-05-16 15:29:27,867 - Chunk Stored: 32eda5e4-c0ba-4320-b46b-ae932a779bc1 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 15:29:27,868 - Chunk Stored: 4f6fdee9-6454-4a38-862f-df3b268af7c3 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 15:29:28,131 - Chunk Stored: be41bb57-30ad-4f8a-b2b2-927c8f46dde4 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 15:29:28,131 - Chunk Stored: fda90243-ee52-418e-88b8-171ea19070e1 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 15:29:28,772 - Chunk Stored: 25943d69-f2d2-4a7e-9280-3869c27d1953 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 15:29:28,773 - Chunk Stored: a1f258b6-50f9-4f47-a17d-507fc6f9abfe | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 15:29:29,218 - Chunk Stored: dee8fd44-aa67-4259-a6a4-5326ab5a64c4 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:29:29,218 - Chunk Stored: 57f20558-218e-455a-a80f-660671bb2a1d | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:29:29,218 - Chunk Stored: 99c32fab-4395-4313-b86f-0d6083d5075c | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:29:29,219 - Chunk Stored: caeab5b2-7558-410a-9534-95c2f2ab9333 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:29:29,722 - Chunk Stored: b5d24894-e0c7-4e5f-941a-03b20fd30eb5 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 1
+2025-05-16 15:29:29,722 - Chunk Stored: 89ec224e-aa2b-4cac-942d-ea7ff066da2e | File: temp_K.BhavaniSankaraRao-old.docx | Page: 2
+2025-05-16 15:29:29,722 - Chunk Stored: 40e10dcc-1784-4af9-bb26-ec6e318607fa | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 15:29:29,722 - Chunk Stored: a4af6aa0-7e31-48b0-965b-a2497660b8dd | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 15:29:29,722 - Chunk Stored: 910929ea-120f-45c5-8b82-366538278bc9 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 4
+2025-05-16 15:29:29,722 - Chunk Stored: 024a2dce-c834-492e-93f5-7d93f09655ad | File: temp_K.BhavaniSankaraRao-old.docx | Page: 5
+2025-05-16 15:29:29,722 - Chunk Stored: dd04650b-9668-4fed-b0f7-02f9296ddd1b | File: temp_K.BhavaniSankaraRao-old.docx | Page: 6
+2025-05-16 15:29:29,940 - Chunk Stored: 0acd42fb-2db2-4c7e-92b5-71bcaf180611 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 15:29:29,940 - Chunk Stored: b8b8f348-76e0-4246-aca6-e3b99582bea1 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 15:29:30,103 - Chunk Stored: 255074ce-d6b3-4f44-9e83-88f3e19cecc0 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 15:29:30,103 - Chunk Stored: ad24b122-6751-4f7a-9ea8-e268f7cf61e7 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 15:29:30,854 - Chunk Stored: c308a9b2-bfea-4051-abd8-611e2a1b399e | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:29:30,854 - Chunk Stored: ac0241a4-b309-4d52-be9d-a77b82eb6746 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:29:30,855 - Chunk Stored: 31d11070-82f7-408c-9500-013c888bb11a | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:29:30,855 - Chunk Stored: c97022bb-72a9-4ca3-b55c-ce8101b64a44 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:29:30,855 - Chunk Stored: a6f36167-b5b0-4f3c-a413-6569eb0f846e | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:29:30,855 - Chunk Stored: a5933caa-3395-4089-9062-5547481622b0 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:29:30,855 - Chunk Stored: fe870b4c-3635-44f3-8558-c07a49f8f799 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:29:30,855 - Chunk Stored: a0266c07-6dbf-490f-a9fc-17709bea259b | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:29:30,855 - Chunk Stored: e4fb2a81-b921-4f58-ba66-9d0e60c0d321 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:29:30,855 - Chunk Stored: 27170eb1-e924-4ae2-8760-1555bfcaf5a5 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:29:30,855 - Chunk Stored: 2331a49f-f262-4acb-bb8f-ab33f5009bc2 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:29:30,855 - Chunk Stored: 54d5dbce-292e-4d39-871e-3e6a7c1b6b4f | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:29:31,644 - Chunk Stored: 6d7f7cb2-874f-4b9d-b4e7-668bd70c8419 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:29:31,644 - Chunk Stored: 7e2185af-81f6-45ae-9aa7-2837195086ce | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:29:31,645 - Chunk Stored: 70b45de6-c549-49c7-90e2-58db7bae7da8 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:29:31,645 - Chunk Stored: 74dc7f63-ff6f-494f-b6ae-7d0935ef410f | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:29:31,645 - Chunk Stored: c1eb3696-efde-487f-88b4-40d614979107 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:29:31,645 - Chunk Stored: 954aa0f6-3956-4caf-b081-9993d0d13235 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:29:31,645 - Chunk Stored: 8cc12881-e926-45d5-91e0-726940e6bcd4 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:29:31,645 - Chunk Stored: 0957a3f1-8f22-4470-a440-98c7bbf8811b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:29:31,645 - Chunk Stored: 23e23365-a69f-43e6-94c1-95b9fe80a516 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:29:31,645 - Chunk Stored: 465fc864-6cd1-4ff6-b889-d4a18c8e03f8 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:29:31,645 - Chunk Stored: 8d4a80fc-2c5b-4737-bfbc-81d30b3ccc12 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:29:31,645 - Chunk Stored: 2208c4ff-5f02-4d4d-ba42-ae06d597bb8e | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:29:31,740 - Chunk Stored: b1a23bec-2784-4a0b-8383-6f8959951b19 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 15:29:31,825 - Chunk Stored: a2e8d592-bf2e-4cf6-a4b4-261707c12945 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 15:29:31,890 - Chunk Stored: 658c2935-e05f-4fb0-9e2f-729d1d52be79 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 15:29:31,939 - Chunk Stored: e1af931b-df7a-47f6-9417-bd0000271601 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 15:59:42,439 - Chunk Stored: 694f0858-7217-4f90-b6e0-d2765900627a | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 15:59:42,440 - Chunk Stored: bafad3fb-9feb-4031-8a97-f492ed367b26 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 15:59:42,440 - Chunk Stored: bd30acbc-a88f-481d-be59-f3d38956ce14 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-16 15:59:42,440 - Chunk Stored: 9ac38e0d-fede-4b94-bfcb-4760ca1e635d | File: temp_Auto-cad.pdf | Page: 2
+2025-05-16 15:59:42,573 - Chunk Stored: 360da7ac-2a6f-47dd-9a4a-e17f7ee89bb4 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 15:59:42,573 - Chunk Stored: a859d5ee-134c-4745-8f39-7fc88a6959e4 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-16 15:59:42,692 - Chunk Stored: 4d384ede-dfa3-4486-8fb7-defd024d1600 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 15:59:42,692 - Chunk Stored: 3a74b729-9046-4e6b-8ab2-31a3f14208f1 | File: temp_ds vj cer.pdf | Page: 1
+2025-05-16 15:59:43,216 - Chunk Stored: 5fd0e94d-8a9d-4ecf-bd55-b8e332b14bb2 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 15:59:43,216 - Chunk Stored: 1a4cfbac-2242-4361-997c-9d962f6be497 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-16 15:59:43,466 - Chunk Stored: 67699a4e-7501-475a-95aa-16d27d4bf610 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:59:43,466 - Chunk Stored: 69aa8f67-f0cc-4381-94b8-e8906f731f43 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:59:43,466 - Chunk Stored: 1c696ac3-28e3-4c76-8b19-8e1a6627a29e | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:59:43,466 - Chunk Stored: bc8f0200-5d32-43b9-b16f-be8b4ecc8aad | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 15:59:43,713 - Chunk Stored: 2d8667d8-5ea9-4849-92fd-5cd942f89ff8 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 1
+2025-05-16 15:59:43,713 - Chunk Stored: 42b66aef-a6e3-4f52-8fb2-58112a7cf1c7 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 2
+2025-05-16 15:59:43,713 - Chunk Stored: e3f1421c-9e9b-4137-a742-2affa591c3f9 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 15:59:43,713 - Chunk Stored: b5edf557-1bc7-47dd-80e0-440668bbb2f7 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 15:59:43,713 - Chunk Stored: 66780f92-9570-49f1-b7b2-1edd42b71533 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 4
+2025-05-16 15:59:43,713 - Chunk Stored: a8b151f0-def0-4734-af96-9663e453f0f8 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 5
+2025-05-16 15:59:43,713 - Chunk Stored: 31f74fa4-c812-49a2-99cf-62967b9b2060 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 6
+2025-05-16 15:59:43,801 - Chunk Stored: e2b39cbd-278a-46a7-a250-acd7af8d8868 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 15:59:43,801 - Chunk Stored: a8089aaf-a797-45b7-af3f-4615fa2c39e7 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 15:59:43,877 - Chunk Stored: c560f41d-622c-44e1-a903-1995bb08fd2e | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 15:59:43,877 - Chunk Stored: d250bfe2-938c-4565-b101-89113d0ebbd4 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 15:59:44,560 - Chunk Stored: f85a1eb5-769b-4658-97eb-fd999b5cef32 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:59:44,560 - Chunk Stored: d94605c8-6d8e-4fa9-847e-cee037d98253 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:59:44,560 - Chunk Stored: 94388a66-c547-422d-bd4b-17f5c8fed917 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 15:59:44,560 - Chunk Stored: aef71466-ffba-4597-a994-b0bc32c48577 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:59:44,560 - Chunk Stored: 107a8c58-ccef-4084-9a30-0f37453b1cf2 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:59:44,560 - Chunk Stored: 6a57a1bd-cabb-4e9c-ab75-d4f1e14308ff | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:59:44,560 - Chunk Stored: 06214634-21ae-40fb-911d-ff1d6e0daf44 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:59:44,560 - Chunk Stored: ea93d8ea-6461-45b1-951a-ea4e1de5af9e | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:59:44,560 - Chunk Stored: 8e568f6d-a036-4733-ab26-7549524fa2d5 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 15:59:44,560 - Chunk Stored: d30fdc2b-2a90-4fff-b3c9-1b2b46496b55 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:59:44,560 - Chunk Stored: d518e3f9-cd28-4030-bb69-1375ad793e37 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:59:44,560 - Chunk Stored: 1e3b3cdf-74dc-4b1c-b85b-c0849ee5e867 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 15:59:45,104 - Chunk Stored: fc513914-c970-4312-9f32-0e6fbfdf09bf | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:59:45,104 - Chunk Stored: 8a611895-edbf-44fc-aaa8-243c72cbda1c | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:59:45,104 - Chunk Stored: 148705ca-6cdf-4f2f-8fba-a088f6357a98 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 15:59:45,104 - Chunk Stored: fd273856-1f87-4696-9530-9c874be76a8a | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:59:45,104 - Chunk Stored: 8991c8b6-a3f5-427a-b0d3-4341abbb296c | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:59:45,104 - Chunk Stored: ce17b504-2278-447f-8599-058d6e806aa5 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:59:45,104 - Chunk Stored: 76625b8e-103d-4212-aa60-50a8b0ee0e00 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:59:45,104 - Chunk Stored: 66b5b468-c9f9-4a8f-adfb-83010f08ba88 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:59:45,104 - Chunk Stored: cd9244bc-bc9d-48b9-bc23-6fe6124f831d | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 15:59:45,104 - Chunk Stored: 6a3f3746-6529-45c5-afed-12d7e6cfff05 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:59:45,104 - Chunk Stored: 47b67124-7a29-4c28-838e-3d0491f2892f | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:59:45,104 - Chunk Stored: 1c787297-9178-4cd0-b7bb-6efdad361dcc | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 15:59:45,187 - Chunk Stored: 3c47d5b6-0890-459e-8c7a-e0fec1a43c1a | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 15:59:45,254 - Chunk Stored: bed4593f-f189-49d4-8580-48d68ad30a16 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 15:59:45,305 - Chunk Stored: 29523d9c-4db8-42a4-82f1-49f8549a9454 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 15:59:45,350 - Chunk Stored: 0134212a-42b7-44df-bf0b-b87c6a97294b | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 16:18:09,438 - Chunk Stored: d916c230-0461-4bb7-8c14-276f7f6e925d | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 16:18:09,460 - Chunk Stored: aae387c0-3e16-41d8-a9f4-30125fb42bee | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 16:18:09,651 - Chunk Stored: 444ec762-bc6a-4939-99ff-c69686dadf7b | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 16:18:09,652 - Chunk Stored: c18c2847-65b8-4cc7-a55e-39c712fa9845 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 16:18:11,354 - Chunk Stored: 024a6205-0fd9-43ae-af56-0885ff34d795 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 16:18:11,354 - Chunk Stored: f4e01fb5-1b92-4db1-bc3c-9b225d8dfe5b | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 16:18:11,354 - Chunk Stored: 70791f07-05bc-4d92-9158-575d09ecac4d | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 16:18:11,354 - Chunk Stored: 3248e954-4213-4f61-b64c-43ccd41d37ed | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 16:18:11,354 - Chunk Stored: 2e01ba2c-5832-4501-8b06-1b6c17fee5ea | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 16:18:11,354 - Chunk Stored: 8388d86f-ca61-44d1-ad27-3f4bf4e777ae | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 16:18:11,354 - Chunk Stored: 7872c999-db9e-4c6a-8f81-f9cf431793cf | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 16:18:11,354 - Chunk Stored: b6d2bdbb-02db-436b-98cc-ca1b4f6b885b | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 16:18:11,354 - Chunk Stored: 090c432d-d027-4934-afd9-9eefc65672ed | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 16:18:11,355 - Chunk Stored: af8ff7d4-f3c5-4bb2-8c54-de99904e8159 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 16:18:11,355 - Chunk Stored: 06b88988-ae34-4f0e-93fe-f2cdad01b945 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 16:18:11,355 - Chunk Stored: a9f7ed70-530a-48dc-b696-b5f894f42b2f | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 16:18:12,447 - Chunk Stored: 9533f394-0cbf-45d8-95c6-def0ce6958ab | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 16:18:12,447 - Chunk Stored: 81e42e7a-839f-4cee-88c5-c21ee88951c1 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 16:18:12,447 - Chunk Stored: 5101eba0-1462-4d2d-83fb-db2d8a5de71e | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 16:18:12,447 - Chunk Stored: ce466a98-78d5-415c-bd98-75ad6940b99b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 16:18:12,447 - Chunk Stored: f76a4c2a-92d1-43a4-9fa0-1127ebced954 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 16:18:12,447 - Chunk Stored: a5f4b842-132e-4b7d-a44b-932db35f51b7 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 16:18:12,447 - Chunk Stored: 59272002-dd17-47de-89ed-3311de5338d5 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 16:18:12,447 - Chunk Stored: eabb7b2e-b29b-4a92-a1e5-d0935f0bec0a | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 16:18:12,448 - Chunk Stored: 7df6aa82-d481-4828-84be-f2a252305785 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 16:18:12,448 - Chunk Stored: 993a325c-be7c-4509-b37f-079c231b3689 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 16:18:12,448 - Chunk Stored: adcd8429-e14f-4545-9847-d034db034d70 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 16:18:12,448 - Chunk Stored: 6a918774-037f-4f51-ab1f-61c98a5607a5 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 16:18:12,697 - Chunk Stored: ed7a6a8c-c8e5-489d-aa0b-ecf531d1c398 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 16:18:12,814 - Chunk Stored: eeead537-2b8b-4268-b43f-e7a227389398 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 16:18:12,900 - Chunk Stored: f5002152-81ca-4feb-8a00-fad55939fb99 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 16:18:13,002 - Chunk Stored: d415db6b-c9f1-4aa2-bac1-ad79a42b554c | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 17:17:41,743 - Chunk Stored: 983f30e9-6adf-422c-908b-db6ea1b125b0 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:17:41,793 - Chunk Stored: 8ddee3f6-56ae-4dbb-b7f2-d726c42fa708 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:17:41,793 - Chunk Stored: 59607a51-412b-476b-ab0a-234df84cd33b | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:17:41,793 - Chunk Stored: 3f1d4ce8-0171-47f2-8fd7-51c4c609776c | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:17:42,161 - Chunk Stored: 3fe6d297-ed66-4e96-b7ea-0ab4d6ea4e97 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 1
+2025-05-16 17:17:42,161 - Chunk Stored: 8594d119-26e3-43fa-88a6-0edcda868835 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 2
+2025-05-16 17:17:42,161 - Chunk Stored: 0acc5cc9-6eea-40be-986b-0f72c088aefb | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 17:17:42,161 - Chunk Stored: 3b00a98d-ac9d-42d1-9531-9d2b14f2d4fa | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 17:17:42,162 - Chunk Stored: faec1882-104d-4e20-8150-ee03cff63d37 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 4
+2025-05-16 17:17:42,162 - Chunk Stored: ec8b39ff-eb96-4287-a069-47e94302c022 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 5
+2025-05-16 17:17:42,162 - Chunk Stored: ac12dd61-1b45-4780-ae37-4984a4965404 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 6
+2025-05-16 17:17:42,343 - Chunk Stored: 06fbe30f-8375-45f8-8045-94dc29c69d3a | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 17:17:42,343 - Chunk Stored: 7b12c0f4-18b9-4747-b3a5-233adbf58f21 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 17:17:42,496 - Chunk Stored: f1c7b0b4-59ba-47d8-b5b2-50e14654833c | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 17:17:42,496 - Chunk Stored: de9a95f5-bd5a-4f94-88ae-0b48dee51371 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 17:17:43,831 - Chunk Stored: 79c10e3f-2541-44e2-af8e-324e4e5e0ce9 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 17:17:43,832 - Chunk Stored: bd9c5186-373b-4d62-b532-c6d38ba98eb5 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 17:17:43,832 - Chunk Stored: b238276c-87b9-47d9-9dcd-79d594306361 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 17:17:43,832 - Chunk Stored: 07b418e5-94d7-4469-b132-4a2c289d3f74 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:17:43,832 - Chunk Stored: b29b9675-3273-4fcd-840f-b1a62c3fa818 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:17:43,832 - Chunk Stored: 6dad5ef1-5d3e-493c-adab-387be144d373 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:17:43,832 - Chunk Stored: 9f6224c2-0f82-456b-b5b7-19b4e91a0264 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:17:43,832 - Chunk Stored: b5f110a2-655f-4420-a706-8e53d7b3b0e3 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:17:43,832 - Chunk Stored: e06cb671-38bb-4bcd-9455-db60e185af2b | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:17:43,832 - Chunk Stored: 1fc9112e-2b3b-40cf-a4d5-466b8b596847 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 17:17:43,832 - Chunk Stored: d57d8f6f-6e39-40cf-a50c-bcd74fb024cd | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 17:17:43,832 - Chunk Stored: fa1836cf-d029-49d8-933f-ed376327e48b | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 17:17:44,676 - Chunk Stored: 45a5743c-1d10-42f0-9bfd-c7adea82952f | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 17:17:44,676 - Chunk Stored: a771a795-5373-473f-9880-2e8affb89c45 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 17:17:44,676 - Chunk Stored: e6453195-c889-4e54-8a49-02b2f8ffbae2 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 17:17:44,676 - Chunk Stored: 016ef06e-2806-4cde-a466-15545b63fa21 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:17:44,676 - Chunk Stored: 7a876324-6b38-4952-a984-92a88ce0ec7b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:17:44,677 - Chunk Stored: 411ab50d-b52e-4c95-b920-db0e4d91990a | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:17:44,677 - Chunk Stored: 9f3a160d-c876-4707-b8d9-7632fcb8709b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:17:44,677 - Chunk Stored: 51810ffe-11b3-4ab0-bb1c-424d72211f46 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:17:44,677 - Chunk Stored: d96f89c1-2cf4-49a3-b8fc-d373193bf8c5 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:17:44,677 - Chunk Stored: c46f8e13-5d57-4885-a93a-ff02bc4b2732 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 17:17:44,677 - Chunk Stored: 166c8a30-1ade-462e-b38b-38d3453acddf | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 17:17:44,677 - Chunk Stored: 799bf109-0ece-4490-af8f-b25b9a6a4c34 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 17:17:44,765 - Chunk Stored: c50dcc05-47a6-4aee-81b6-9e3d4282e176 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 17:17:44,841 - Chunk Stored: 84349f98-b7fe-4186-85f1-0f3890ec8471 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 17:17:44,885 - Chunk Stored: 4f94c292-9735-42aa-940f-c0886ce98e74 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 17:17:44,932 - Chunk Stored: a23512a6-e780-4137-a669-47c4e4138c8c | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 17:29:05,728 - Chunk Stored: 191dc5c7-4d5d-41e6-b360-ae420acc2d26 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:29:05,728 - Chunk Stored: 9272e27e-071f-4757-85f3-8803b337b6db | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:29:05,729 - Chunk Stored: 01c9c5b6-d750-42c4-a36c-fc12cf3e1456 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:29:05,729 - Chunk Stored: 4be8ca75-5dd4-4b1d-a137-5639668ecf19 | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-16 17:29:06,247 - Chunk Stored: dfbedde0-db25-4491-8bd3-8257d8eaac5d | File: temp_K.BhavaniSankaraRao-old.docx | Page: 1
+2025-05-16 17:29:06,247 - Chunk Stored: b9bf3d40-5257-41e6-80c7-a2565e108083 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 2
+2025-05-16 17:29:06,247 - Chunk Stored: 2e437aae-547d-4e48-884b-5f47cd0e0f58 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 17:29:06,247 - Chunk Stored: d7c200b5-c1a7-4b87-97be-10ec02991f37 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-16 17:29:06,247 - Chunk Stored: 81c9ab55-1832-4432-b0b5-6385be0a4788 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 4
+2025-05-16 17:29:06,247 - Chunk Stored: 2bd1095d-8e20-403b-9d69-f9995e22d541 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 5
+2025-05-16 17:29:06,247 - Chunk Stored: 2332fead-14f3-4d13-b017-dfe0ae3f367e | File: temp_K.BhavaniSankaraRao-old.docx | Page: 6
+2025-05-16 17:29:06,490 - Chunk Stored: 02b374f6-57e9-4521-9cc9-b7c8e10e5339 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 17:29:06,490 - Chunk Stored: 3a04ca51-6b14-4e6b-95fd-e8510337c207 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-16 17:29:06,679 - Chunk Stored: 0387432c-1768-4857-8e32-429b8fab3a13 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 17:29:06,680 - Chunk Stored: 953b5d9b-5a4c-4fa1-b1cd-72a1d7519222 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-16 17:29:07,714 - Chunk Stored: 28efe169-da9e-4d3d-8193-facd3aba44a5 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 17:29:07,714 - Chunk Stored: 3d63b755-6fa2-4b53-9f0b-967706c86986 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 17:29:07,714 - Chunk Stored: 8d602282-67fb-4f89-b520-c26d80f16e0c | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-16 17:29:07,714 - Chunk Stored: 267b6719-cb1c-4c67-9bba-9732685497d2 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:29:07,714 - Chunk Stored: ea73b631-a954-416e-8532-7d146bb743bf | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:29:07,714 - Chunk Stored: 8c7ec9a2-2bc3-406a-ac03-79ab5b4ba5b4 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:29:07,714 - Chunk Stored: 37a726d0-055f-41a9-b3fc-cc21ccb9590a | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:29:07,715 - Chunk Stored: e6f68a28-92d3-4748-9d9c-231e7f31843c | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:29:07,715 - Chunk Stored: 41aba906-cdd8-4d74-9f8c-f70ffcc80090 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-16 17:29:07,715 - Chunk Stored: fe5a9ff2-a2c1-49ec-949d-1dde91a1471a | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 17:29:07,715 - Chunk Stored: 698ace2e-9b6e-49e5-bda2-8ca24e8e5fd9 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 17:29:07,715 - Chunk Stored: a21395b7-fec2-4e47-ae6c-3bcd715ead78 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-16 17:29:08,488 - Chunk Stored: b59200a7-519a-4e17-bbe6-dec87a9c2200 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 17:29:08,488 - Chunk Stored: 8139c383-85f5-4cf8-8359-672b0d7272e5 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 17:29:08,488 - Chunk Stored: 32f8da3f-7920-43ea-8ac6-6a9faf1fa551 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-16 17:29:08,488 - Chunk Stored: b35d0f0d-df16-4703-bf66-df49104ac891 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:29:08,488 - Chunk Stored: 4216ed80-78c5-4996-bd0c-1d1921ad5071 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:29:08,488 - Chunk Stored: c5efc9f4-8b4a-40a9-8042-4b21d610a8d7 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:29:08,488 - Chunk Stored: ca5a52d5-b6d2-4eda-9bcf-d0693c439611 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:29:08,488 - Chunk Stored: 434128cc-cc7b-4c7d-a5a7-2560f7538652 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:29:08,488 - Chunk Stored: 768ce77e-abd2-41bc-8d7a-844d1a28987e | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-16 17:29:08,489 - Chunk Stored: b9579cf4-9579-4d13-aa5a-47e91ba74d06 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 17:29:08,489 - Chunk Stored: e306fdc5-eaeb-42b0-a8d9-b733b777d785 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 17:29:08,489 - Chunk Stored: f6c73018-1e66-4b5f-803e-9fd604e9c68a | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-16 17:29:08,572 - Chunk Stored: f16f8237-7632-4512-a7ef-acaaaee88538 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-16 17:29:08,645 - Chunk Stored: facee97a-0b77-45f2-85fe-c8f216add566 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 17:29:08,740 - Chunk Stored: a05e9c89-5529-4167-8749-f05faf905690 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-16 17:29:08,849 - Chunk Stored: 04d24e50-a0e8-492d-a1f4-a9e8dc8e1de7 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-16 18:06:39,224 - Chunk Stored: 1ed8bbfb-10ee-4d24-8941-b9d141bd9811 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-16 21:35:15,458 - Chunk Stored: 28a279d2-69fb-473e-81a6-0531dbd29b71 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+2025-05-19 10:27:44,655 - Use pytorch device_name: cpu
+2025-05-19 10:27:44,674 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-19 10:28:01,192 - Chunk Stored: ec56c06d-951c-421b-84ca-a51309001e6d | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-19 10:28:01,192 - Chunk Stored: d2be8974-5f02-4364-87fe-d46c764d2b65 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-19 10:28:01,192 - Chunk Stored: 4676c4e3-8e8e-4087-bcf8-dd170a50bc5d | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-19 10:28:01,192 - Chunk Stored: c4045513-23fe-4e50-9e37-fd52917ec9f3 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-19 10:28:01,192 - Chunk Stored: 68f94c8e-2294-4f13-a031-3a9cfc113b3c | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-19 10:28:01,192 - Chunk Stored: 17e097f4-7610-476a-a589-45a0de9a758a | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-19 10:28:01,192 - Chunk Stored: 02a92d10-dbb7-4081-88f4-7b2201ad5f57 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-19 10:28:01,192 - Chunk Stored: 88ab73f2-9c3b-49d7-97ec-fdee5a598d43 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-19 10:28:01,193 - Chunk Stored: 3e56c43d-038f-4fdb-9986-1ec828b9b7ed | File: temp_VIVI_CV.pdf | Page: 3
+2025-05-19 11:28:29,189 - Chunk Stored: e48b26df-9bd3-4f99-b84b-e76173741db9 | File: temp_AY5271203544.pdf | Page: 1
+2025-05-19 11:28:29,190 - Chunk Stored: 676b8175-9e3e-42ed-a25b-0e1a6b293aa9 | File: temp_AY5271203544.pdf | Page: 1
+2025-05-19 11:28:29,190 - Chunk Stored: f9404fd8-dc41-479b-a9f7-f1fb83a0fba3 | File: temp_AY5271203544.pdf | Page: 2
+2025-05-19 11:28:29,190 - Chunk Stored: 36b95c23-17a8-4d1a-af4c-4ab17a1d9138 | File: temp_AY5271203544.pdf | Page: 2
+2025-05-19 11:31:15,052 - Chunk Stored: 5a3674c8-edd6-43fd-8b3d-0784036668a5 | File: temp_9542087203.docx | Page: 1
+2025-05-19 11:31:15,602 - Chunk Stored: b11143ba-38d0-4f2e-80d8-89627e0f4169 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-19 11:31:15,602 - Chunk Stored: 83ec0666-f705-4516-97c1-4459be7c5520 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-19 11:31:15,602 - Chunk Stored: 2a20aebe-d81d-4077-b05d-c952aad06b43 | File: temp_Auto-cad.pdf | Page: 1
+2025-05-19 11:31:15,602 - Chunk Stored: 715d06ff-0753-48a2-b6c5-23b62662ea4a | File: temp_Auto-cad.pdf | Page: 2
+2025-05-19 11:31:15,724 - Chunk Stored: 631df4f5-4d86-4ce6-b84f-1a3eef542f33 | File: temp_CityU international students.xlsx | Page: 1
+2025-05-19 11:31:15,725 - Chunk Stored: 9c60f538-772c-4563-ab27-b700eebba39a | File: temp_CityU international students.xlsx | Page: 1
+2025-05-19 11:31:16,072 - Chunk Stored: 2c7cfce6-006f-4c4b-8ccb-df8d065340ba | File: temp_ds vj cer.pdf | Page: 1
+2025-05-19 11:31:16,072 - Chunk Stored: f28dcc50-728e-4675-ad9d-b686381d282b | File: temp_ds vj cer.pdf | Page: 1
+2025-05-19 11:31:16,495 - Chunk Stored: af853bf5-e3e1-4e15-8cce-7f6a89546202 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-19 11:31:16,495 - Chunk Stored: ebeccf58-a112-42f5-985e-d559f6d3d903 | File: temp_FORM-T5.pdf | Page: 1
+2025-05-19 11:31:16,855 - Chunk Stored: bfc15dd2-5c0c-4106-a7ff-d4e41649388a | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-19 11:31:16,856 - Chunk Stored: 1fa42ff0-c3ce-4c0d-b99c-6c0b0325251f | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-19 11:31:16,856 - Chunk Stored: 8fccd83b-9ae9-41f0-bd88-770c0d37563c | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-19 11:31:16,856 - Chunk Stored: 630dc3d1-2288-474d-a888-a2d0cd604c9f | File: temp_K.BhavaniSankaraRao-Latest.pdf | Page: 1
+2025-05-19 11:31:17,092 - Chunk Stored: eff78bff-0baf-428d-885f-a14eef077f48 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 1
+2025-05-19 11:31:17,092 - Chunk Stored: 0974e266-94a9-4e36-9f89-684950a16289 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 2
+2025-05-19 11:31:17,092 - Chunk Stored: c0de73e4-15ca-4b16-959f-4ee7d4d9350f | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-19 11:31:17,092 - Chunk Stored: 32f148c4-662d-4a45-bcf0-fe6ae24b40f5 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 3
+2025-05-19 11:31:17,092 - Chunk Stored: da55b6ef-8dcb-4f4a-a201-d4f04374e426 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 4
+2025-05-19 11:31:17,092 - Chunk Stored: 0aaac251-c275-4d90-816b-8b9f1c6d2776 | File: temp_K.BhavaniSankaraRao-old.docx | Page: 5
+2025-05-19 11:31:17,092 - Chunk Stored: 4a1bd0b0-b1c5-437d-9c42-7f625e24bd0c | File: temp_K.BhavaniSankaraRao-old.docx | Page: 6
+2025-05-19 11:31:17,197 - Chunk Stored: 2c9bce11-8082-4070-a930-e26c8d1991ac | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-19 11:31:17,198 - Chunk Stored: b3ce5286-dfa6-476a-b0f9-2d743d2a0f75 | File: temp_lunitha certificate.pdf | Page: 1
+2025-05-19 11:31:17,290 - Chunk Stored: 8d6cb7ed-cfa7-4a96-ba20-bf206f3a9f6e | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-19 11:31:17,290 - Chunk Stored: 4f70f142-efb5-4bff-8ecb-f2862e5ece40 | File: temp_lunitha vj sir certificate.pdf | Page: 1
+2025-05-19 11:31:18,013 - Chunk Stored: f35a0f18-e834-4a17-95c5-3f8d76a94573 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-19 11:31:18,013 - Chunk Stored: fbc4d18f-16de-4322-a1d2-866b683da7a9 | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-19 11:31:18,013 - Chunk Stored: 9b36dbd8-b5c3-403b-8003-26b9ad2e48cd | File: temp_Vimala M Offer - Copy.pdf | Page: 1
+2025-05-19 11:31:18,014 - Chunk Stored: 4b1af336-2f67-4a91-892f-ed0cb3cadf77 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-19 11:31:18,014 - Chunk Stored: 6f9563d3-dda7-4250-a75f-81d45de2a5fe | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-19 11:31:18,014 - Chunk Stored: e4b6a052-f4dc-4ce6-a7f0-10f925f4d0d8 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-19 11:31:18,014 - Chunk Stored: 1a6e4f33-ab0b-41bb-aeae-80f56ad4ddcd | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-19 11:31:18,014 - Chunk Stored: 009b10d1-057d-4d34-a2f1-0a3bc9f7434a | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-19 11:31:18,014 - Chunk Stored: 8ab3567d-1f31-48dc-b698-9b2da604c881 | File: temp_Vimala M Offer - Copy.pdf | Page: 2
+2025-05-19 11:31:18,014 - Chunk Stored: 412616c3-b2c2-4119-8074-a38801e9256c | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-19 11:31:18,014 - Chunk Stored: 594fa8e9-d3e2-4638-b171-2e5c51741c6b | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-19 11:31:18,014 - Chunk Stored: cae831b1-1397-49cf-8ae7-f30959a6b9f9 | File: temp_Vimala M Offer - Copy.pdf | Page: 3
+2025-05-19 11:31:18,590 - Chunk Stored: 5731d6e3-87ca-4cd6-81bc-59c515b6d46d | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-19 11:31:18,590 - Chunk Stored: 3317d6c0-eaec-4c3a-aa0d-169b4f4f54e3 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-19 11:31:18,590 - Chunk Stored: 1a332ab5-44da-491a-b19b-7a238d30e3f0 | File: temp_Vimala M Offer.pdf | Page: 1
+2025-05-19 11:31:18,590 - Chunk Stored: 95f8f7ed-c116-4b13-83e3-28ac5feb4898 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-19 11:31:18,590 - Chunk Stored: fe270d0b-3830-43bd-8f97-aaf615018a3a | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-19 11:31:18,591 - Chunk Stored: a863e95f-9fdf-4137-83b5-f7d408edf80b | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-19 11:31:18,591 - Chunk Stored: 6b4f433a-cefb-4804-91bb-b232c8a34ea9 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-19 11:31:18,591 - Chunk Stored: 73b7fc7b-39be-452a-8740-007262ac029e | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-19 11:31:18,591 - Chunk Stored: d9b0dda2-8f4b-4674-b192-a34080b46b12 | File: temp_Vimala M Offer.pdf | Page: 2
+2025-05-19 11:31:18,591 - Chunk Stored: cdac2db8-90f7-4b24-809e-0c4d3e367c8e | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-19 11:31:18,591 - Chunk Stored: 642ca3a6-dce6-4778-ba28-743556544ff6 | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-19 11:31:18,591 - Chunk Stored: d81b95e2-1fc3-469b-b29c-025c163b4a1d | File: temp_Vimala M Offer.pdf | Page: 3
+2025-05-19 11:31:18,649 - Chunk Stored: f08c5f5b-2013-491b-8ded-c2ac11914e58 | File: temp_vimala-salary-hike-letter_2022 - Copy.pdf | Page: 1
+2025-05-19 11:31:18,695 - Chunk Stored: 492d1a7d-bc7f-420f-b47a-46db681dc002 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
+2025-05-19 11:31:18,742 - Chunk Stored: e45a7636-ff35-4b1b-a2c0-a9c17ab099d8 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
+2025-05-19 11:31:18,793 - Chunk Stored: 91366c00-e6b7-4e4e-812c-7ea0a3471cd7 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1

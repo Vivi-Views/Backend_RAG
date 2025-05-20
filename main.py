@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import os
 import datetime
 import json
@@ -14,20 +15,19 @@ from fastapi.responses import JSONResponse
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
 import shutil
 from fastapi.middleware.cors import CORSMiddleware
+=======
+# Imports
+# placed at their code blocks
+>>>>>>> Stashed changes
 
-# ====== Config & Security Hardening ======
-os.environ["HF_HUB_DISABLE_TELEMETRY"] = "1"
-os.environ["TRANSFORMERS_OFFLINE"] = "1"
+#===========================================================XXX===========================================================#
 
-RESPONSIBLE_AI_MANIFEST = {
-    "policy": "No document or chunk processed by this pipeline will be used for LLM or embedding training unless explicitly approved by client X.",
-    "timestamp": datetime.datetime.now().isoformat(),
-    "enforced": True
-}
+# imports
+from fastapi import FastAPI, Request
 
-with open("responsible_ai_manifest.json", "w") as f:
-    json.dump(RESPONSIBLE_AI_MANIFEST, f, indent=2)
+#-----------------------
 
+<<<<<<< Updated upstream
 # ====== Logging Setup ======
 logging.basicConfig(filename='parse_log.txt', level=logging.INFO, format='%(asctime)s - %(message)s')
 
@@ -106,9 +106,12 @@ def parse_pdf(file_path):
     return [meta["chunk"] for meta in chunk_metadata_store[-len(chunks):]]
 
 # ====== FastAPI Setup ======
+=======
+# Initialization of FastAPI
+>>>>>>> Stashed changes
 app = FastAPI()
-security = HTTPBasic()
 
+<<<<<<< Updated upstream
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
@@ -126,12 +129,14 @@ def upload_multiple_pdfs(files: List[UploadFile] = File(...), credentials: HTTPB
     total_chunks = 0
     all_top_chunks = []
     errors = []
+=======
+#===========================================================XXX===========================================================#
+>>>>>>> Stashed changes
 
-    for file in files:
-        temp_file_path = f"temp_{file.filename}"
-        with open(temp_file_path, "wb") as buffer:
-            shutil.copyfileobj(file.file, buffer)
+# Imports
+import logging
 
+<<<<<<< Updated upstream
         try:
             top_chunks = parse_pdf(temp_file_path)
             total_chunks += len(top_chunks)
@@ -152,3 +157,168 @@ def upload_multiple_pdfs(files: List[UploadFile] = File(...), credentials: HTTPB
         },
         status_code=200 if not errors else 207
     )
+=======
+#-----------------------
+
+# ====== Enhanced Logging Setup ======
+logging.basicConfig(
+    filename='rag_pipeline.log',
+    level=logging.INFO,
+    format='%(asctime)s | %(levelname)s | %(action)s | %(file_name)s | %(chunk_id)s | %(message)s'
+)
+
+# Custom Logger Adapter to inject dynamic context
+class ContextualLogger(logging.LoggerAdapter):
+    def process(self, msg, kwargs):
+        context = self.extra.copy()
+        context.update(kwargs.get("extra", {}))
+        kwargs["extra"] = context
+        return msg, kwargs
+
+logger = ContextualLogger(logging.getLogger(__name__), {
+    "action": "INIT",
+    "file_name": "N/A",
+    "chunk_id": "N/A"
+})
+
+#===========================================================XXX===========================================================#
+
+# Imports
+from collections import defaultdict
+
+#-----------------------
+
+# Note:
+"""
+    Counts file types and logs each identification.
+
+    Parameters:
+        file_list (List[str]): List of filenames or table names.
+        logger (ContextualLogger): The enhanced contextual logger.
+
+    Returns:
+        Dict[str, int]: Dictionary with file type as key and count as value.
+    """
+
+
+# ====== File Type Counting Function ======
+def count_file_types(file_list):
+
+    type_counts = defaultdict(int)
+
+    logger.info("Starting file type identification", extra={
+        "action": "IDENTIFY_TYPES",
+        "file_name": "input_list",
+        "chunk_id": "N/A"
+    })
+
+    for item in file_list:
+        lower_item = item.lower()
+        if lower_item.endswith('.pdf'):
+            doc_type = 'pdf'
+        elif lower_item.endswith('.docx'):
+            doc_type = 'docx'
+        elif lower_item.endswith('.xlsx'):
+            doc_type = 'xlsx'
+        elif lower_item.endswith('.txt'):
+            doc_type = 'txt'
+        elif '.' not in lower_item:
+            doc_type = 'snowflake_table_or_view'
+        else:
+            doc_type = 'unknown'
+
+        type_counts[doc_type] += 1
+
+        logger.info(f"Identified type: {doc_type}", extra={
+            "action": "TYPE_IDENTIFIED",
+            "file_name": item,
+            "chunk_id": "N/A"
+        })
+
+    logger.info(f"Type summary: {dict(type_counts)}", extra={
+        "action": "TYPE_COUNT_SUMMARY",
+        "file_name": "input_list",
+        "chunk_id": "N/A"
+    })
+
+    return dict(type_counts)
+
+#===========================================================XXX===========================================================#
+
+# Imports
+from pydantic import BaseModel
+from typing import List
+
+#-----------------------
+
+class FileListRequest(BaseModel):
+    files: List[str]
+
+"""
+# For passing as list from terminal using curl command
+@app.post("/file-types")
+def get_file_types(files: List[str]):
+    return count_file_types(files)
+
+# use like this - using curl command
+curl -X POST http://127.0.0.1:8000/file-types -H "Content-Type: application/json" -d "[\"doc1.pdf\", \"notes.txt\", \"orders_table\", \"report.xlsx\", \"weird.abc\"]"
+
+"""
+
+# For webpage
+@app.post("/file-types")
+def get_file_types(request: FileListRequest):
+    return count_file_types(request.files)
+
+"""
+# use like this - using curl command
+curl -X POST http://127.0.0.1:8000/file-types -H "Content-Type: application/json" -d "{\"files\": [\"doc1.pdf\", \"notes.txt\", \"orders_table\"]}"
+"""
+
+#===========================================================XXX===========================================================#
+
+
+
+#===========================================================XXX===========================================================#
+
+# Testing from terminal
+# curl http://127.0.0.1:8000/file-types
+
+"""
+@app.get("/file-types")
+def get_file_types():
+    # Example static call — customize as needed
+    sample_input = ['doc1.pdf', 'notes.txt', 'orders_table','doc2.pdf', 'notes1.txt', 'table1', 'report.xlsx', 'weird.abc']
+    return count_file_types(sample_input, logger)
+"""
+#===========================================================XXX===========================================================#
+
+# Testing from terminal
+# python main.py "['doc1.pdf', 'notes.txt', 'table1', 'report.xlsx', 'weird.abc']"
+# python main.py "['doc1.txt']"
+# python main.py : Usage: python main.py "['file1.pdf', 'table_name', 'data.xlsx']"
+
+
+# ====== Main Entrypoint ======
+if __name__ == "__main__":
+    import sys
+    import ast
+
+    if len(sys.argv) < 2:
+        print("Usage: python main.py \"['file1.pdf', 'table_name', 'data.xlsx']\"")
+        sys.exit(1)
+
+    try:
+        input_list = ast.literal_eval(sys.argv[1])
+        if not isinstance(input_list, list):
+            raise ValueError("Input is not a list.")
+    except Exception as e:
+        print(f"Error: Invalid input list format. Must be a valid Python list.\nDetails: {e}")
+        sys.exit(1)
+
+    result = count_file_types(input_list, logger)
+
+    print("\nFile Type Count Summary:")
+    for file_type, count in result.items():
+        print(f"{file_type} : {count}")
+>>>>>>> Stashed changes

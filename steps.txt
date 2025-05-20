@@ -4,5 +4,8 @@ uvicorn main:app --reload
 
 # test it
 curl -X POST "http://127.0.0.1:8000/parse-pdf" -F "file=@VIVI_CV.pdf"
+curl -X POST "http://127.0.0.1:8000/parse-multiple-pdfs" -F "file=@VIVI_CV.pdf"
+curl -u admin:anypassword -F "files=@VIVI_CV.pdf" http://127.0.0.1:8000/parse-multiple-pdfs
+
 
 

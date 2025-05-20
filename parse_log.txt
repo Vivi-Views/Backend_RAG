@@ -106,6 +106,7 @@
 2025-05-14 14:03:27,467 - Chunk Stored: 3bf1ca32-dba7-4081-9004-e0403ac1e94c | File: temp_VIVI_CV.pdf | Page: 2
 2025-05-14 14:03:27,467 - Chunk Stored: 185b713e-e5d8-46a8-b023-a6e1df218722 | File: temp_VIVI_CV.pdf | Page: 2
 2025-05-14 14:03:27,467 - Chunk Stored: 01e996b0-9e4f-422d-b3de-b4b0e24e5cbe | File: temp_VIVI_CV.pdf | Page: 3
+<<<<<<< Updated upstream
 2025-05-14 14:32:34,738 - Use pytorch device_name: cpu
 2025-05-14 14:32:34,738 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
 2025-05-14 14:34:07,309 - Chunk Stored: 637bf3c4-3070-4aa0-b689-3a0ef5b91afb | File: temp_VIVI_CV.pdf | Page: 1
@@ -815,3 +816,16 @@
 2025-05-19 11:31:18,695 - Chunk Stored: 492d1a7d-bc7f-420f-b47a-46db681dc002 | File: temp_vimala-salary-hike-letter_2022.pdf | Page: 1
 2025-05-19 11:31:18,742 - Chunk Stored: e45a7636-ff35-4b1b-a2c0-a9c17ab099d8 | File: temp_vimala-salary-hike-letter_2023.pdf | Page: 1
 2025-05-19 11:31:18,793 - Chunk Stored: 91366c00-e6b7-4e4e-812c-7ea0a3471cd7 | File: temp_vimala-salary-hike-letter_2024.pdf | Page: 1
+=======
+2025-05-14 14:12:11,176 - Use pytorch device_name: cpu
+2025-05-14 14:12:11,177 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-14 14:12:20,840 - Chunk Stored: 9042fc82-1f28-46ef-9a28-2e4d9e67fd92 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:12:20,840 - Chunk Stored: 2564e6d7-189e-48fa-9741-d3bfa4b2fc8b | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:12:20,840 - Chunk Stored: 87125435-f3cf-4b3b-b324-93ce6a67cd93 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:12:20,840 - Chunk Stored: d735a707-a134-4897-84c5-08bee7602a32 | File: temp_VIVI_CV.pdf | Page: 1
+2025-05-14 14:12:20,840 - Chunk Stored: ff71805d-20d5-4d2f-8ca2-7d3453137231 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:12:20,840 - Chunk Stored: eef1ee13-42ad-4802-b5b6-02f3bc5443e7 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:12:20,841 - Chunk Stored: 2aefdc3c-57dd-42df-ab9a-be472bbec22b | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:12:20,841 - Chunk Stored: d16bb841-5eee-4586-8c80-3c4114604309 | File: temp_VIVI_CV.pdf | Page: 2
+2025-05-14 14:12:20,841 - Chunk Stored: 9b2df5f3-58e7-49b7-8e36-ac685e827860 | File: temp_VIVI_CV.pdf | Page: 3
+>>>>>>> Stashed changes

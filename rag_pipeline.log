@@ -1,0 +1,84 @@
+2025-05-15 02:43:22,636 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 02:43:22,637 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 02:43:22,638 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 02:43:22,638 | INFO | TYPE_IDENTIFIED | table1 | N/A | Identified type: snowflake_table_or_view
+2025-05-15 02:43:22,638 | INFO | TYPE_IDENTIFIED | report.xlsx | N/A | Identified type: xlsx
+2025-05-15 02:43:22,638 | INFO | TYPE_IDENTIFIED | weird.abc | N/A | Identified type: unknown
+2025-05-15 02:43:22,638 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1, 'xlsx': 1, 'unknown': 1}
+2025-05-15 02:57:09,406 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 02:57:09,410 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 02:57:09,411 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 02:57:09,411 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 02:57:09,411 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1}
+2025-05-15 02:57:40,101 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 02:57:40,101 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 02:57:40,102 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 02:57:40,102 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 02:57:40,102 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1}
+2025-05-15 02:58:03,779 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 02:58:03,779 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 02:58:03,780 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 02:58:03,780 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 02:58:03,780 | INFO | TYPE_IDENTIFIED | doc2.pdf | N/A | Identified type: pdf
+2025-05-15 02:58:03,781 | INFO | TYPE_IDENTIFIED | notes1.txt | N/A | Identified type: txt
+2025-05-15 02:58:03,781 | INFO | TYPE_IDENTIFIED | table1 | N/A | Identified type: snowflake_table_or_view
+2025-05-15 02:58:03,781 | INFO | TYPE_IDENTIFIED | report.xlsx | N/A | Identified type: xlsx
+2025-05-15 02:58:03,781 | INFO | TYPE_IDENTIFIED | weird.abc | N/A | Identified type: unknown
+2025-05-15 02:58:03,781 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 2, 'txt': 2, 'snowflake_table_or_view': 2, 'xlsx': 1, 'unknown': 1}
+2025-05-15 03:02:51,095 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 03:02:51,095 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 03:02:51,095 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1}
+2025-05-15 03:03:47,859 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 03:03:47,860 | INFO | TYPE_IDENTIFIED | doc1.txt | N/A | Identified type: txt
+2025-05-15 03:03:47,860 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'txt': 1}
+2025-05-15 10:55:12,578 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 10:55:12,581 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 10:55:12,581 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 10:55:12,581 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 10:55:12,581 | INFO | TYPE_IDENTIFIED | doc2.pdf | N/A | Identified type: pdf
+2025-05-15 10:55:12,581 | INFO | TYPE_IDENTIFIED | notes1.txt | N/A | Identified type: txt
+2025-05-15 10:55:12,581 | INFO | TYPE_IDENTIFIED | table1 | N/A | Identified type: snowflake_table_or_view
+2025-05-15 10:55:12,582 | INFO | TYPE_IDENTIFIED | report.xlsx | N/A | Identified type: xlsx
+2025-05-15 10:55:12,582 | INFO | TYPE_IDENTIFIED | weird.abc | N/A | Identified type: unknown
+2025-05-15 10:55:12,582 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 2, 'txt': 2, 'snowflake_table_or_view': 2, 'xlsx': 1, 'unknown': 1}
+2025-05-15 10:58:14,714 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | doc2.pdf | N/A | Identified type: pdf
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | notes1.txt | N/A | Identified type: txt
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | table1 | N/A | Identified type: snowflake_table_or_view
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | report.xlsx | N/A | Identified type: xlsx
+2025-05-15 10:58:14,715 | INFO | TYPE_IDENTIFIED | weird.abc | N/A | Identified type: unknown
+2025-05-15 10:58:14,715 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 2, 'txt': 2, 'snowflake_table_or_view': 2, 'xlsx': 1, 'unknown': 1}
+2025-05-15 11:03:22,155 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 11:03:22,155 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 11:03:22,155 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 11:03:22,155 | INFO | TYPE_IDENTIFIED | table1 | N/A | Identified type: snowflake_table_or_view
+2025-05-15 11:03:22,155 | INFO | TYPE_IDENTIFIED | report.xlsx | N/A | Identified type: xlsx
+2025-05-15 11:03:22,155 | INFO | TYPE_IDENTIFIED | weird.abc | N/A | Identified type: unknown
+2025-05-15 11:03:22,155 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1, 'xlsx': 1, 'unknown': 1}
+2025-05-15 12:06:28,002 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 12:06:28,003 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 12:06:28,004 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 12:06:28,004 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 12:06:28,004 | INFO | TYPE_IDENTIFIED | report.xlsx | N/A | Identified type: xlsx
+2025-05-15 12:06:28,004 | INFO | TYPE_IDENTIFIED | weird.abc | N/A | Identified type: unknown
+2025-05-15 12:06:28,004 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1, 'xlsx': 1, 'unknown': 1}
+2025-05-15 12:19:24,731 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 12:19:24,734 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 12:19:24,734 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 12:19:24,734 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 12:19:24,734 | INFO | TYPE_IDENTIFIED | report.xlsx | N/A | Identified type: xlsx
+2025-05-15 12:19:24,734 | INFO | TYPE_IDENTIFIED | weird.abc | N/A | Identified type: unknown
+2025-05-15 12:19:24,735 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1, 'xlsx': 1, 'unknown': 1}
+2025-05-15 12:24:18,335 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 12:24:18,336 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 12:24:18,336 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 12:24:18,336 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 12:24:18,336 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1}
+2025-05-15 19:42:43,030 | INFO | IDENTIFY_TYPES | input_list | N/A | Starting file type identification
+2025-05-15 19:42:43,036 | INFO | TYPE_IDENTIFIED | doc1.pdf | N/A | Identified type: pdf
+2025-05-15 19:42:43,036 | INFO | TYPE_IDENTIFIED | notes.txt | N/A | Identified type: txt
+2025-05-15 19:42:43,036 | INFO | TYPE_IDENTIFIED | orders_table | N/A | Identified type: snowflake_table_or_view
+2025-05-15 19:42:43,037 | INFO | TYPE_COUNT_SUMMARY | input_list | N/A | Type summary: {'pdf': 1, 'txt': 1, 'snowflake_table_or_view': 1}
